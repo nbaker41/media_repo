@@ -1,7 +1,12 @@
 
 <?php
+    $url = 'https://www.scheller.gatech.edu/_files/dashboards-json/directory-signage.json';
 
-$url = 'https://www.scheller.gatech.edu/_files/dashboards-json/directory-signage.json';
+
+$q=$_GET["q"];
+if($q=="scheller"){
+    $url = 'https://www.scheller.gatech.edu/_files/dashboards-json/directory-signage.json';
+}
 
 // Use file_get_contents() to retrieve the JSON data
 $json_data = file_get_contents($url);
