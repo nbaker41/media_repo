@@ -1,0 +1,4662 @@
+[
+    {
+        "academic": [
+            "Strategy and Innovation"
+        ],
+        "email": "frank.rothaermel@gatech.edu",
+        "firstName": "Frank T. ",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/rothaermel_frank_profile.jpg",
+        "lastName": "Rothaermel",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/rothaermel/index.html",
+        "office": "4413a",
+        "phone": "",
+        "position": [
+            "Area Coordinator",
+            "Professor",
+            "Regents Professor"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "400",
+        "title": "Regents' Professor"
+    },
+    {
+        "academic": [
+            "Organizational Behavior"
+        ],
+        "email": "yufei.zhong@scheller.gatech.edu",
+        "firstName": "Yufei",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/zhong_yufei_profile.jpg",
+        "lastName": "Zhong",
+        "link": "https://www.scheller.gatech.edu/directory/phd/zhong/index.html",
+        "office": "4318",
+        "phone": "",
+        "status": [
+            "PhD"
+        ],
+        "suite": "",
+        "title": "Ph.D. Candidate"
+    },
+    {
+        "email": "david.deiters@scheller.gatech.edu",
+        "firstName": "David",
+        "functional": [
+            "Career Services"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/dieters_david_profile-205x205.jpg",
+        "lastName": "Deiters",
+        "link": "https://www.scheller.gatech.edu/directory/staff/deiters/index.html",
+        "office": "3114",
+        "phone": "404-385-2900",
+        "status": [
+            "Staff",
+            "Dean"
+        ],
+        "suite": "304",
+        "title": "Associate Dean, MBA Programs and Jones MBA Career Center"
+    },
+    {
+        "email": "Arianna.Robinson@scheller.gatech.edu",
+        "firstName": "Arianna",
+        "functional": [
+            "Sustainability"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/robinson_arianna_profile-205x205.jpg",
+        "lastName": "Robinson",
+        "link": "https://www.scheller.gatech.edu/directory/staff/robinsona/index.html",
+        "office": "4427A",
+        "phone": "404-385-3759",
+        "status": [
+            "Staff"
+        ],
+        "suite": "",
+        "title": "Assistant Director, Business Operations"
+    },
+    {
+        "email": "keith.werle@scheller.gatech.edu",
+        "firstName": "Keith",
+        "functional": [
+            "Business Analytics"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/werle_keith_profile.jpg",
+        "lastName": "Werle",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/werle/index.html",
+        "office": "4336",
+        "phone": "404-385-4475",
+        "position": [
+            "Professor of the Practice"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "400",
+        "title": "Managing Director, Business Analytics Center"
+    },
+    {
+        "academic": [
+            "Operations Management"
+        ],
+        "email": "beril.toktay@scheller.gatech.edu",
+        "firstName": "L. Beril",
+        "functional": [
+            "Sustainability"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/toktay_beril_profile-205x205.jpg",
+        "lastName": "Toktay",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/toktay/index.html",
+        "office": "4427B",
+        "phone": "404-385-0104",
+        "position": [
+            "Professor",
+            "Regents Professor"
+        ],
+        "status": [
+            "Faculty",
+            "Staff"
+        ],
+        "suite": "",
+        "title": "Brady Family Chair in Management"
+    },
+    {
+        "email": "John.Stanford@scheller.gatech.edu",
+        "firstName": "John",
+        "functional": [
+            "Denning T&M"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/stanford_john_profile.jpg",
+        "lastName": "Stanford",
+        "link": "https://www.scheller.gatech.edu/directory/staff/stanford/index.html",
+        "office": "4428",
+        "phone": "404-385-4504",
+        "status": [
+            "Staff"
+        ],
+        "suite": "4429",
+        "title": "Sr Manager, Industry Engagement and Student Counseling"
+    },
+    {
+        "email": "kjersti.lukens@scheller.gatech.edu",
+        "firstName": "Kjersti",
+        "functional": [
+            "Sustainability"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/lukens_kjersti_profile-205x205.jpg",
+        "lastName": "Lukens",
+        "link": "https://www.scheller.gatech.edu/directory/staff/lukens/index.html",
+        "office": "4426",
+        "phone": "404-385-5221",
+        "status": [
+            "Staff"
+        ],
+        "suite": "",
+        "title": "Program Support Coordinator"
+    },
+    {
+        "academic": [
+            "Organizational Behavior"
+        ],
+        "email": "terry.blum@ilsi.gatech.edu",
+        "firstName": "Terry",
+        "functional": [
+            "ILSI"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/blum_terry_profile-205x205.jpg",
+        "lastName": "Blum",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/blum/index.html",
+        "office": "4153C",
+        "phone": "404-894-4924",
+        "position": [
+            "Professor",
+            "PhD Coordinator"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "ILSI",
+        "title": "Tedd Munchak Chair"
+    },
+    {
+        "email": "kevin.cruse@ohr.gatech.edu",
+        "firstName": "Kevin",
+        "functional": [
+            "Administration",
+            "Human Resources"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/cruse_kevin_profile.jpg",
+        "lastName": "Cruse",
+        "link": "https://www.scheller.gatech.edu/directory/staff/cruse/index.html",
+        "office": "3251",
+        "phone": "404-385-4270",
+        "status": [
+            "Staff"
+        ],
+        "suite": "325",
+        "title": "HR Business Partner"
+    },
+    {
+        "email": "maria.misbach@scheller.gatech.edu",
+        "firstName": "Maria",
+        "functional": [
+            "Communications"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/misbach_maria_profile.jpg",
+        "lastName": "Misbach",
+        "link": "https://www.scheller.gatech.edu/directory/staff/misbach/index.html",
+        "office": "3239",
+        "phone": "608-886-9830",
+        "status": [
+            "Staff"
+        ],
+        "suite": "325",
+        "title": "Director of Marketing and Communications"
+    },
+    {
+        "email": "david.alberti@scheller.gatech.edu",
+        "firstName": "David",
+        "functional": [
+            "Facilities"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/alberti_david_profile.jpg",
+        "lastName": "Alberti",
+        "link": "https://www.scheller.gatech.edu/directory/staff/alberti/index.html",
+        "office": "3249",
+        "phone": "404-385-4090",
+        "status": [
+            "Staff"
+        ],
+        "suite": "325",
+        "title": "Sr. Facilities Manager"
+    },
+    {
+        "email": "shannon.thomas@scheller.gatech.edu",
+        "firstName": "Shannon",
+        "functional": [
+            "IT Services"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/thomas_shannon_profile.jpg",
+        "lastName": "Thomas",
+        "link": "https://www.scheller.gatech.edu/directory/staff/thomas/index.html",
+        "office": "2107",
+        "phone": "404-385-5406",
+        "status": [
+            "Staff"
+        ],
+        "suite": "204",
+        "title": "Director of Information Technology"
+    },
+    {
+        "email": "lael.whiteside@scheller.gatech.edu",
+        "firstName": "Lael",
+        "functional": [
+            "Executive MBA"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/whiteside_lael_profile.jpg",
+        "lastName": "Whiteside",
+        "link": "https://www.scheller.gatech.edu/directory/staff/whiteside/index.html",
+        "office": "3157E",
+        "phone": "404-894-4822",
+        "status": [
+            "Staff"
+        ],
+        "suite": "310",
+        "title": "Recruiting Manager"
+    },
+    {
+        "email": "craig.womack@scheller.gatech.edu",
+        "firstName": "Craig",
+        "functional": [
+            "Undergraduate"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/womack_craig_profile-205x205.jpg",
+        "lastName": "Womack",
+        "link": "https://www.scheller.gatech.edu/directory/staff/womack/index.html",
+        "office": "3319",
+        "phone": "404-894-2615",
+        "position": [
+            "Associate Dean"
+        ],
+        "status": [
+            "Staff",
+            "Dean"
+        ],
+        "suite": "322",
+        "title": "Associate Dean, Undergraduate Programs"
+    },
+    {
+        "email": "emily.sharkey@scheller.gatech.edu",
+        "firstName": "Emily",
+        "functional": [
+            "Evening MBA",
+            "Full-time MBA"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/sharky_emily_profile.jpg",
+        "lastName": "Sharkey",
+        "link": "https://www.scheller.gatech.edu/directory/staff/sharkey/index.html",
+        "office": "3127",
+        "phone": "404-385-4869",
+        "status": [
+            "Staff"
+        ],
+        "suite": "302",
+        "title": "Executive Director, MBA Admission and Recruiting"
+    },
+    {
+        "email": "elizabeth.jones@scheller.gatech.edu",
+        "firstName": "Elizabeth",
+        "functional": [
+            "Evening MBA"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/jones_elizabeth_profile.jpg",
+        "lastName": "Jones",
+        "link": "https://www.scheller.gatech.edu/directory/staff/jonese/index.html",
+        "office": "3128",
+        "phone": "404-894-3911",
+        "status": [
+            "Staff"
+        ],
+        "suite": "302",
+        "title": "Director, Evening MBA Recruiting"
+    },
+    {
+        "email": "theresa.metzger@scheller.gatech.edu",
+        "firstName": "Theresa",
+        "functional": [
+            "PhD",
+            "Administration"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/metzger_theresa_profile.jpg",
+        "lastName": "Metzger",
+        "link": "https://www.scheller.gatech.edu/directory/staff/metzger/index.html",
+        "office": "3302",
+        "phone": "404-385-5441",
+        "status": [
+            "Staff"
+        ],
+        "suite": "325",
+        "title": "Academic Program Manager"
+    },
+    {
+        "academic": [
+            "Organizational Behavior"
+        ],
+        "email": "katie.badura@scheller.gatech.edu",
+        "firstName": "Katie",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/badura_katie_profile.jpg",
+        "lastName": "Badura",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/badura/index.html",
+        "office": "4314",
+        "phone": "404-894-4334",
+        "position": [
+            "Assistant Professor"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "",
+        "title": "Assistant Professor"
+    },
+    {
+        "academic": [
+            "Finance"
+        ],
+        "email": "sudheer.chava@scheller.gatech.edu",
+        "firstName": "Sudheer",
+        "functional": [
+            "FSIL",
+            "QCF"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/chava_sudeer_profile.jpg",
+        "lastName": "Chava",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/chava/index.html",
+        "office": "4125",
+        "phone": "404-894-4371",
+        "position": [
+            "Area Coordinator",
+            "Professor"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "",
+        "title": "Alton M. Costley Chair"
+    },
+    {
+        "academic": [
+            "Operations Management"
+        ],
+        "email": "karthik.ramachandran@scheller.gatech.edu",
+        "firstName": "Karthik",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/ramachandran_karthik_profile.jpg",
+        "lastName": "Ramachandran",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/ramachandran/index.html",
+        "office": "4423",
+        "phone": "404-894-8631",
+        "position": [
+            "Area Coordinator",
+            "Professor"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "",
+        "title": "Dunn Family Professor"
+    },
+    {
+        "academic": [
+            "Operations Management"
+        ],
+        "email": "robert.burgess@scheller.gatech.edu",
+        "firstName": "Robert",
+        "functional": [
+            "Denning T&M"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/burgess_robert_profile.jpg",
+        "lastName": "Burgess",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/burgess/index.html",
+        "office": "4428B",
+        "phone": "404-894-3899",
+        "position": [
+            "Academic Professional"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "4429",
+        "title": "Administrative Director"
+    },
+    {
+        "academic": [
+            "Operations Management"
+        ],
+        "email": "andre.calmon@scheller.gatech.edu",
+        "firstName": "Andre",
+        "functional": [
+            "Sustainability"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/calmon_andre_profile-205x205.jpg",
+        "lastName": "Calmon",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/calmon/index.html",
+        "office": "4251",
+        "phone": "404-277-9384",
+        "position": [
+            "Assistant Professor"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "",
+        "title": "Assistant Professor"
+    },
+    {
+        "academic": [
+            "Operations Management"
+        ],
+        "email": "cheryl.gaimon@scheller.gatech.edu",
+        "firstName": "Cheryl",
+        "functional": [
+            "Business Analytics"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/gaimon_cheryl_profile-205x205.jpg",
+        "lastName": "Gaimon",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/gaimon/index.html",
+        "office": "4247",
+        "phone": "404-385-2409",
+        "position": [
+            "Professor",
+            "Regents Professor"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "447",
+        "title": "Esther and Edward J. Brown Jr. Chair"
+    },
+    {
+        "academic": [
+            "Operations Management"
+        ],
+        "email": "soumen.ghosh@scheller.gatech.edu",
+        "firstName": "Soumen",
+        "functional": [
+            "Administration"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/ghosh_soumen_profile-205x205.jpg",
+        "lastName": "Ghosh",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/ghosh/index.html",
+        "office": "3250",
+        "phone": "404-894-4927",
+        "position": [
+            "Professor",
+            "Senior Associate Dean"
+        ],
+        "status": [
+            "Faculty",
+            "Dean"
+        ],
+        "suite": "325",
+        "title": "Senior Associate Dean for Faculty and Research"
+    },
+    {
+        "academic": [
+            "Operations Management"
+        ],
+        "email": "manpreet.hora@scheller.gatech.edu",
+        "firstName": "Manpreet S.",
+        "functional": [
+            "Business Analytics",
+            "Sustainability"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/hora_manpreet_profile-205x205.jpg",
+        "lastName": "Hora",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/hora/index.html",
+        "office": "4252",
+        "phone": "404-385-3465",
+        "position": [
+            "Professor",
+            "Professorship"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "450",
+        "title": "Dean\u2019s Distinguished Term Professorship"
+    },
+    {
+        "academic": [
+            "Operations Management"
+        ],
+        "email": "Basak.Kalkanci@scheller.gatech.edu",
+        "firstName": "Basak",
+        "functional": [
+            "Sustainability"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/kalkanci_basak_profile.jpg",
+        "lastName": "Kalkanci",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/kalkanci/index.html",
+        "office": "4302",
+        "phone": "404-385-1417",
+        "position": [
+            "Associate Professor"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "455",
+        "title": "Associate Professor"
+    },
+    {
+        "academic": [
+            "Operations Management"
+        ],
+        "email": "ravi.subramanian@scheller.gatech.edu",
+        "firstName": "Ravi",
+        "functional": [
+            "Sustainability"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/subramanian_ravi_profile-205x205.jpg",
+        "lastName": "Subramanian",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/subramanian/index.html",
+        "office": "4265",
+        "phone": "404-894-4197",
+        "position": [
+            "Professor"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "",
+        "title": "Gregory J. Owens Professor"
+    },
+    {
+        "academic": [
+            "Operations Management"
+        ],
+        "email": "morvarid.rahmani@scheller.gatech.edu",
+        "firstName": "Morvarid",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/rahmani_morvarid_profile.jpg",
+        "lastName": "Rahmani",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/rahmani/index.html",
+        "office": "4246",
+        "phone": "404-385-1424",
+        "position": [
+            "Associate Professor"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "",
+        "title": "Associate Professor"
+    },
+    {
+        "academic": [
+            "Operations Management"
+        ],
+        "email": "tim.martin@scheller.gatech.edu",
+        "firstName": "Tim",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/martin_tim_profile.jpg",
+        "lastName": "Martin",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/martin/index.html",
+        "office": "4143",
+        "phone": "",
+        "position": [
+            "Lecturer"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "",
+        "title": "Lecturer"
+    },
+    {
+        "academic": [
+            "Operations Management"
+        ],
+        "email": "bob.myers@scheller.gatech.edu",
+        "firstName": "Bob",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/myers_bob_profile.jpg",
+        "lastName": "Myers",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/myers/index.html",
+        "office": "4156",
+        "phone": "404-385-4474",
+        "position": [
+            "Senior Lecturer"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "",
+        "title": "Faculty Director of Lean Six Sigma Programs"
+    },
+    {
+        "academic": [
+            "IT Management"
+        ],
+        "email": "maryam.alavi@scheller.gatech.edu",
+        "firstName": "Maryam",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/alavi_maryam_profile-205x205.jpg",
+        "lastName": "Alavi",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/alavi/index.html",
+        "office": "4312",
+        "phone": "",
+        "position": [
+            "Professor"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "",
+        "title": "Elizabeth D. and Thomas M. Holder Chair"
+    },
+    {
+        "email": "Joey.Asher@scheller.gatech.edu",
+        "firstName": "Joey",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/asher_joey_profile.jpg",
+        "lastName": "Asher",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/asher/index.html",
+        "office": "4320",
+        "phone": "404-385-4371",
+        "position": [
+            "Part-Time Lecturer"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "",
+        "title": "Adjunct Lecturer"
+    },
+    {
+        "academic": [
+            "Organizational Behavior"
+        ],
+        "email": "bradford.baker@scheller.gatech.edu",
+        "firstName": "Bradford",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/baker_bradford_profile.jpg",
+        "lastName": "Baker",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/baker/index.html",
+        "office": "4304",
+        "phone": "404-894-1745",
+        "position": [
+            "Assistant Professor"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "",
+        "title": "Assistant Professor"
+    },
+    {
+        "academic": [
+            "Accounting"
+        ],
+        "email": "ryan.blunck@scheller.gatech.edu",
+        "firstName": "Ryan",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/blunck_ryan_profile.jpg",
+        "lastName": "Blunck",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/blunck/index.html",
+        "office": "4211",
+        "phone": "404-385-5329",
+        "position": [
+            "Senior Lecturer"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "433",
+        "title": "Senior Lecturer"
+    },
+    {
+        "academic": [
+            "Marketing"
+        ],
+        "email": "samuel.bond@scheller.gatech.edu",
+        "firstName": "Samuel",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/bond_sam_profile.jpg",
+        "lastName": "Bond",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/bond/index.html",
+        "office": "4139",
+        "phone": "404-385-3309",
+        "position": [
+            "Area Coordinator",
+            "Associate Professor"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "426",
+        "title": "Associate Professor"
+    },
+    {
+        "academic": [
+            "Finance"
+        ],
+        "email": "Barry.Branch@scheller.gatech.edu",
+        "firstName": "Barry",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/branch_barry_profile.jpg",
+        "lastName": "Branch",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/branch/index.html",
+        "office": "4159",
+        "phone": "678-296-8549",
+        "position": [
+            "Professor of the Practice"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "",
+        "title": "Robert H. Ledbetter Sr. Professor"
+    },
+    {
+        "academic": [
+            "Strategy and Innovation"
+        ],
+        "email": "marco.ceccagnoli@scheller.gatech.edu",
+        "firstName": "Marco",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/ceccagnoli_marco_profile.jpg",
+        "lastName": "Ceccagnoli",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/ceccagnoli/index.html",
+        "office": "4421",
+        "phone": "404-385-4965",
+        "position": [
+            "Professor",
+            "PhD Coordinator",
+            "Professorship"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "400",
+        "title": "Brady Family Professorship"
+    },
+    {
+        "academic": [
+            "Marketing"
+        ],
+        "email": "alkacitrin@yahoo.com",
+        "firstName": "Alka",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/citrin_alka_profile.jpg",
+        "lastName": "Citrin",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/citrin/index.html",
+        "office": "4212",
+        "phone": "+33-3 87 20 39 29",
+        "position": [
+            "Part-Time Lecturer"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "",
+        "title": "Adjunct Lecturer"
+    },
+    {
+        "academic": [
+            "Finance"
+        ],
+        "email": "jonathan.clarke@scheller.gatech.edu",
+        "firstName": "Jonathan",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/clark_jonathan_profile-205x205.jpg",
+        "lastName": "Clarke",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/clarke/index.html",
+        "office": "3305",
+        "phone": "404-894-4929",
+        "position": [
+            "Associate Professor",
+            "Dean"
+        ],
+        "status": [
+            "Faculty",
+            "Dean"
+        ],
+        "suite": "325",
+        "title": "Senior Associate Dean for Strategic Initiatives"
+    },
+    {
+        "academic": [
+            "Organizational Behavior"
+        ],
+        "email": "saba.colakoglu@scheller.gatech.edu",
+        "firstName": "Saba",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/colakoglu_saba_profile.jpg",
+        "lastName": "Colakoglu",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/colakoglu/index.html",
+        "office": "4319",
+        "phone": "404-385-4173",
+        "position": [
+            "Senior Lecturer"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "463B",
+        "title": " Senior Lecturer"
+    },
+    {
+        "academic": [
+            "Accounting"
+        ],
+        "email": "eric.condie@scheller.gatech.edu",
+        "firstName": "Eric",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/condie_eric_profile.jpg",
+        "lastName": "Condie",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/condie/index.html",
+        "office": "4234",
+        "phone": "404-385-5714",
+        "position": [
+            "Assistant Professor"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "418",
+        "title": "Assistant Professor"
+    },
+    {
+        "email": "joel.cowan@scheller.gatech.edu",
+        "firstName": "Joel",
+        "functional": [
+            "ILSI"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/cowan_joel_profile-205x205.jpg",
+        "lastName": "Cowan",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/cowan/index.html",
+        "office": "4153A",
+        "phone": "770-487-7605",
+        "position": [
+            "Part-Time Lecturer",
+            "Special Chairholder"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "ILSI",
+        "title": "Adjunct Lecturer"
+    },
+    {
+        "academic": [
+            "Law and Ethics"
+        ],
+        "email": "deven.desai@scheller.gatech.edu",
+        "firstName": "Deven",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/desai_deven_profile-205x205.jpg",
+        "lastName": "Desai",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/desai/index.html",
+        "office": "4164",
+        "phone": "404-385-3136",
+        "position": [
+            "Area Coordinator",
+            "Associate Professor"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "",
+        "title": "Sue and John Staton Professorship in Business Law"
+    },
+    {
+        "academic": [
+            "Organizational Behavior"
+        ],
+        "email": "charles.easley@gatech.edu",
+        "firstName": "Charles ",
+        "functional": [
+            "ILSI"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/easley_charles_profile-205x205.jpg",
+        "lastName": "Easley",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/easley/index.html",
+        "office": "4106",
+        "phone": "404-307-0676",
+        "position": [
+            "Professor of the Practice"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "",
+        "title": "Professor of the Practice"
+    },
+    {
+        "academic": [
+            "Organizational Behavior"
+        ],
+        "email": "gail.evans@scheller.gatech.edu",
+        "firstName": "Gail",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/evans_gail_profile.jpg",
+        "lastName": "Evans",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/evans/index.html",
+        "office": "4122",
+        "phone": "404-385-5110",
+        "position": [
+            "Part-Time Lecturer"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "401",
+        "title": "Adjunct Lecturer"
+    },
+    {
+        "academic": [
+            "Strategy and Innovation"
+        ],
+        "email": "anne.fuller@gatech.edu",
+        "firstName": "Anne",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/fuller_anne_profile.jpg",
+        "lastName": "Fuller",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/fuller/index.html",
+        "office": "4424",
+        "phone": "404-385-2109",
+        "position": [
+            "Senior Lecturer"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "",
+        "title": "Senior Lecturer"
+    },
+    {
+        "academic": [
+            "IT Management"
+        ],
+        "email": "adrian.gardiner@scheller.gatech.edu",
+        "firstName": "Adrian",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/gardiner_adrian_profile.jpg",
+        "lastName": "Gardiner",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/gardiner/index.html",
+        "office": "4320",
+        "phone": "404-894-3686",
+        "position": [
+            "Lecturer"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "",
+        "title": "Lecturer"
+    },
+    {
+        "academic": [
+            "Finance"
+        ],
+        "email": "jacqueline.garner@scheller.gatech.edu",
+        "firstName": "Jacqueline",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/garner_jacqueline_profile-205x205.jpg",
+        "lastName": "Garner",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/garner/index.html",
+        "office": "4157",
+        "phone": "404-385-5331",
+        "position": [
+            "Senior Lecturer"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "",
+        "title": "Senior Lecturer"
+    },
+    {
+        "academic": [
+            "Strategy and Innovation"
+        ],
+        "email": "jonathan.giuliano@scheller.gatech.edu",
+        "firstName": "Jonathan",
+        "functional": [
+            "TI:GER and CDL"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/giuliano_jonathan_profile-205x205.jpg",
+        "lastName": "Giuliano",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/giuliano/index.html",
+        "office": "4437",
+        "phone": "404-385-3749",
+        "position": [
+            "Professor of the Practice"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "400",
+        "title": "Professor of the Practice"
+    },
+    {
+        "academic": [
+            "Finance"
+        ],
+        "email": "Alex.Hsu@scheller.gatech.edu",
+        "firstName": "Alex",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/hsu_alex_profile-205x205.jpg",
+        "lastName": "Hsu",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/hsu/index.html",
+        "office": "4128",
+        "phone": "404-385-1123",
+        "position": [
+            "Associate Professor"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "",
+        "title": "Associate Professor"
+    },
+    {
+        "academic": [
+            "Finance"
+        ],
+        "email": "narayan.jayaraman@scheller.gatech.edu",
+        "firstName": "Narayanan",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/narayanan_jayaraman_profile-205x205.jpg",
+        "lastName": "Jayaraman",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/jayaraman_n/index.html",
+        "office": "4123",
+        "phone": "404-894-4389",
+        "position": [
+            "Professor"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "406",
+        "title": "Thomas R. Williams-Wells Fargo Professor of Finance"
+    },
+    {
+        "academic": [
+            "Organizational Behavior"
+        ],
+        "email": "tiffany.johnson@scheller.gatech.edu",
+        "firstName": "Tiffany",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/johnson_tiffany_profile.jpg",
+        "lastName": "Johnson",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/johnson/index.html",
+        "office": "4254",
+        "phone": "815-908-9100",
+        "position": [
+            "Associate Professor"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "",
+        "title": "Associate Professor"
+    },
+    {
+        "academic": [
+            "Finance"
+        ],
+        "email": "gary.jones@scheller.gatech.edu",
+        "firstName": "Gary",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/jones_gary_profile.jpg",
+        "lastName": "Jones",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/jones/index.html",
+        "office": "3106",
+        "phone": "404-385-1848",
+        "position": [
+            "Professor of the Practice"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "304",
+        "title": "Professor of the Practice"
+    },
+    {
+        "academic": [
+            "Marketing"
+        ],
+        "email": "donna.kantak@scheller.gatech.edu",
+        "firstName": "Donna",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/kantak_donna_profile.jpg",
+        "lastName": "Kantak",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/kantak/index.html",
+        "office": "4106",
+        "phone": "404-385-3279",
+        "position": [
+            "Lecturer"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "434",
+        "title": "Lecturer"
+    },
+    {
+        "academic": [
+            "Organizational Behavior"
+        ],
+        "email": "Eugene.Kim@scheller.gatech.edu",
+        "firstName": "Eugene",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/kim_eugene_profile.jpg",
+        "lastName": "Kim",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/kim.e/index.html",
+        "office": "4305",
+        "phone": "404-894-3990",
+        "position": [
+            "Associate Professor"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "",
+        "title": "Associate Professor"
+    },
+    {
+        "academic": [
+            "Marketing"
+        ],
+        "email": "kohli@gatech.edu",
+        "firstName": "Ajay K.",
+        "functional": [
+            "Business Analytics"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/kohli_ajay_profile.jpg",
+        "lastName": "Kohli",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/kohli/index.html",
+        "office": "4140",
+        "phone": "404-894-4353",
+        "position": [
+            "Regents Professor",
+            "Special Chairholder"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "427",
+        "title": "Gary T. and Elizabeth R. Jones Chair"
+    },
+    {
+        "academic": [
+            "Strategy and Innovation"
+        ],
+        "email": "david.ku@scheller.gatech.edu",
+        "firstName": "David N.",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/ku_david_profile.jpg",
+        "lastName": "Ku",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/ku/index.html",
+        "office": "4208",
+        "phone": "404-894-6827",
+        "position": [
+            "Special Chairholder"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "432",
+        "title": "Lawrence P. Huang Chair of Engineering Entrepreneurship"
+    },
+    {
+        "academic": [
+            "Accounting"
+        ],
+        "email": "jason.kuang@scheller.gatech.edu",
+        "firstName": "Jason",
+        "functional": [
+            "PhD"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/kuang_jason_profile-205x205.jpg",
+        "lastName": "Kuang",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/kuang/index.html",
+        "office": "4244",
+        "phone": "404-894-1555",
+        "position": [
+            "Professor"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "444",
+        "title": "Professor"
+    },
+    {
+        "email": "bob.lax@scheller.gatech.edu",
+        "firstName": "Robert",
+        "functional": [
+            "Sustainability"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/lax_robert_profile-205x205.jpg",
+        "lastName": "Lax",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/lax/index.html",
+        "office": "4426",
+        "phone": "770-402-6973",
+        "position": [
+            "Lecturer"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "",
+        "title": "Lecturer"
+    },
+    {
+        "academic": [
+            "Finance"
+        ],
+        "email": "suzanne.lee@scheller.gatech.edu",
+        "firstName": "Suzanne",
+        "functional": [
+            "Business Analytics"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/lee_suzanne_profile.jpg",
+        "lastName": "Lee",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/lee_s/index.html",
+        "office": "4133",
+        "phone": "404-894-4963",
+        "position": [
+            "Associate Professor",
+            "PhD Coordinator"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "410",
+        "title": "Associate Professor"
+    },
+    {
+        "email": "avi.leibovitch@scheller.gatech.edu",
+        "firstName": "Abraham",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/leibovitch_avi_profile.jpg",
+        "lastName": "Leibovitch",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/leibovitch/index.html",
+        "office": "4122",
+        "phone": "404-894-2600",
+        "position": [
+            "Part-Time Lecturer"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "",
+        "title": "Adjunct Lecturer"
+    },
+    {
+        "academic": [
+            "IT Management"
+        ],
+        "email": "mingfeng.lin@scheller.gatech.edu",
+        "firstName": "Mingfeng",
+        "functional": [
+            "Business Analytics"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/lin_mingfeng_profile.jpg",
+        "lastName": "Lin",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/lin/index.html",
+        "office": "4253",
+        "phone": "404-894-4921",
+        "position": [
+            "Associate Professor",
+            "PhD Coordinator",
+            "Professorship"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "",
+        "title": "Dean\u2019s Distinguished Term Professor"
+    },
+    {
+        "academic": [
+            "Organizational Behavior"
+        ],
+        "email": "dong.liu@scheller.gatech.edu",
+        "firstName": "Dong",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/liu_dong_profile.jpg",
+        "lastName": "Liu",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/liu/index.html",
+        "office": "4313",
+        "phone": "404-894-4925",
+        "position": [
+            "Professor",
+            "Special Chairholder"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "",
+        "title": "Thomas R. Williams Chair in Management"
+    },
+    {
+        "academic": [
+            "Marketing"
+        ],
+        "email": "michael.lowe@scheller.gatech.edu",
+        "firstName": "Michael",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/lowe_michael_profile-205x205.jpg",
+        "lastName": "Lowe",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/lowe/index.html",
+        "office": "4219",
+        "phone": "801-234-0124",
+        "position": [
+            "Associate Professor",
+            "PhD Coordinator"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "",
+        "title": "Associate Professor"
+    },
+    {
+        "academic": [
+            "Accounting"
+        ],
+        "email": "nikki.mackenzie@scheller.gatech.edu",
+        "firstName": "Nikki",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/mackenzie_nikki_profile.jpg",
+        "lastName": "MacKenzie",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/mackenzie/index.html",
+        "office": "4235",
+        "phone": "404-385-3106",
+        "position": [
+            "Assistant Professor"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "419",
+        "title": "Assistant Professor"
+    },
+    {
+        "academic": [
+            "Strategy and Innovation"
+        ],
+        "email": "astrid.marinoni@scheller.gatech.edu",
+        "firstName": "Astrid",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/marinoni_astrid_profile.jpg",
+        "lastName": "Marinoni",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/marinoni/index.html",
+        "office": "4439",
+        "phone": "",
+        "position": [
+            "Assistant Professor"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "400",
+        "title": "Assistant Professor"
+    },
+    {
+        "academic": [
+            "Strategy and Innovation"
+        ],
+        "email": "ciber@scheller.gatech.edu",
+        "firstName": "John",
+        "functional": [
+            "CIBER"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/mcintyre_john_profile-205x205.jpg",
+        "lastName": "McIntyre",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/mcintyre/index.html",
+        "office": "4228",
+        "phone": "404-894-1463",
+        "position": [
+            "Professor"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "415",
+        "title": "Executive Director, CIBER"
+    },
+    {
+        "academic": [
+            "Accounting"
+        ],
+        "email": "robbie.moon@scheller.gatech.edu",
+        "firstName": "Robbie",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/moon_robbie_profile-205x205.jpg",
+        "lastName": "Moon",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/moon/index.html",
+        "office": "4240",
+        "phone": "404-894-4394",
+        "position": [
+            "Associate Professor"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "440",
+        "title": "Thomas Williams-Wells Fargo Professor in Management"
+    },
+    {
+        "academic": [
+            "IT Management"
+        ],
+        "email": "sri.narasimhan@scheller.gatech.edu",
+        "firstName": "Sridhar",
+        "functional": [
+            "Business Analytics"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/narasimhan_sri_profile.jpeg",
+        "lastName": "Narasimhan",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/narasimhan/index.html",
+        "office": "4268",
+        "phone": "404-894-4378",
+        "position": [
+            "Professor"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "",
+        "title": "Gregory J. Owens Professor"
+    },
+    {
+        "academic": [
+            "IT Management"
+        ],
+        "email": "Marius.Niculescu@scheller.gatech.edu",
+        "firstName": "Marius Florin",
+        "functional": [
+            "Business Analytics"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/niculescu_marius_profile.jpg",
+        "lastName": "Niculescu",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/niculescu/index.html",
+        "office": "4263",
+        "phone": "404-385-3105",
+        "position": [
+            "Associate Professor"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "",
+        "title": "Associate Professor"
+    },
+    {
+        "academic": [
+            "Strategy and Innovation"
+        ],
+        "email": "alex.oettl@scheller.gatech.edu",
+        "firstName": "Alexander",
+        "functional": [
+            "TI:GER and CDL"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/oettl_alex_profile-205x205.jpg",
+        "lastName": "Oettl",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/oettl/index.html",
+        "office": "4420",
+        "phone": "404-385-4570",
+        "position": [
+            "Professor",
+            "Professorship"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "",
+        "title": "Dean\u2019s Distinguished Term Professorship"
+    },
+    {
+        "academic": [
+            "Operations Management"
+        ],
+        "email": "tatiana.rudchenko@scheller.gatech.edu",
+        "firstName": "Tatiana",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/rudchenko_tatiana_profile.jpg",
+        "lastName": "Rudchenko",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/rudchenko/index.html",
+        "office": "4160",
+        "phone": "404-894-9786",
+        "position": [
+            "Senior Lecturer"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "",
+        "title": "Senior Lecturer"
+    },
+    {
+        "academic": [
+            "IT Management"
+        ],
+        "email": "eric.overby@scheller.gatech.edu",
+        "firstName": "Eric",
+        "functional": [
+            "Business Analytics"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/overby_eric_profile.jpg",
+        "lastName": "Overby",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/overby/index.html",
+        "office": "4264",
+        "phone": "404-385-7234",
+        "position": [
+            "Professor"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "471",
+        "title": "Catherine and Edwin Wahlen Professor"
+    },
+    {
+        "email": "michael.oxman@scheller.gatech.edu",
+        "firstName": "Michael",
+        "functional": [
+            "Sustainability"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/oxman_michael_profile-205x205.jpg",
+        "lastName": "Oxman",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/oxman/index.html",
+        "office": "4427",
+        "phone": "404-385-4884",
+        "position": [
+            "Professor of the Practice"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "4426",
+        "title": "Managing Director, Ray C. Anderson Center for Sustainable Business"
+    },
+    {
+        "academic": [
+            "Marketing"
+        ],
+        "email": "adithya.pattabhi@scheller.gatech.edu",
+        "firstName": "Adithya",
+        "functional": [
+            "Business Analytics"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/pattabhiramaiah_adithya_profile.jpg",
+        "lastName": "Pattabhiramaiah",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/pattabhiramaiah/index.html",
+        "office": "4212",
+        "phone": "404-385-3038",
+        "position": [
+            "Associate Professor"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "",
+        "title": "Sharon A. and David B. Pearce Professor"
+    },
+    {
+        "academic": [
+            "Operations Management"
+        ],
+        "email": "vinod.singhal@scheller.gatech.edu",
+        "firstName": "Vinod",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/singhal_vinod_profile.jpg",
+        "lastName": "Singhal",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/singhal/index.html",
+        "office": "4301",
+        "phone": "404-894-4908",
+        "position": [
+            "Professor",
+            "Special Chairholder"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "454",
+        "title": "Charles W. Brady Chair"
+    },
+    {
+        "academic": [
+            "IT Management"
+        ],
+        "email": "jprobst3@gatech.edu",
+        "firstName": "John",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/probst_john_profile.jpg",
+        "lastName": "Probst",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/probst/index.html",
+        "office": "4122",
+        "phone": "614-256-9986",
+        "position": [
+            "Part-Time Lecturer"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "",
+        "title": "Adjunct Lecturer"
+    },
+    {
+        "academic": [
+            "Marketing"
+        ],
+        "email": "koushyar.rajavi@scheller.gatech.edu",
+        "firstName": "Koushyar",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/rajavi_koushyar_profile.jpg",
+        "lastName": "Rajavi",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/rajavi/index.html",
+        "office": "4218",
+        "phone": "404-894-7773",
+        "position": [
+            "Assistant Professor"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "",
+        "title": "Assistant Professor"
+    },
+    {
+        "academic": [
+            "Law and Ethics"
+        ],
+        "email": "rrichards35@gatech.edu",
+        "firstName": "Roy",
+        "functional": [
+            "Sustainability"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/richards_roy_profile.jpg",
+        "lastName": "Richards",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/richards/index.html",
+        "office": "4137",
+        "phone": "843-259-8018",
+        "position": [
+            "Part-Time Lecturer"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "",
+        "title": "Adjunct Lecturer"
+    },
+    {
+        "academic": [
+            "Law and Ethics"
+        ],
+        "email": "arn.rubinoff@scheller.gatech.edu",
+        "firstName": "Arn",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/rubinoff_arn_profile.jpg",
+        "lastName": "Rubinoff",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/rubinoff/index.html",
+        "office": "4147",
+        "phone": "404-385-1407",
+        "position": [
+            "Senior Lecturer"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "",
+        "title": "Senior Lecturer"
+    },
+    {
+        "email": "laura.badovinac@scheller.gatech.edu",
+        "firstName": "Laura ",
+        "functional": [
+            "Executive Education"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/badovinac_laura_profile-205x205.jpg",
+        "lastName": "Badovinac",
+        "link": "https://www.scheller.gatech.edu/directory/staff/badovinac/index.html",
+        "office": "3154",
+        "phone": "404-385-0553",
+        "status": [
+            "Staff"
+        ],
+        "suite": "310",
+        "title": "Client Relationship Manager"
+    },
+    {
+        "email": "pbeall3@gatech.edu",
+        "firstName": "Paul ",
+        "functional": [
+            "Executive Education"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/beall_paul_profile.jpg",
+        "lastName": "Beall",
+        "link": "https://www.scheller.gatech.edu/directory/staff/beall/index.html",
+        "office": "3155",
+        "phone": "404-894-5606",
+        "status": [
+            "Staff"
+        ],
+        "suite": "310",
+        "title": "Client Relationship Manager"
+    },
+    {
+        "email": "richelle.bess@scheller.gatech.edu",
+        "firstName": "Richelle ",
+        "functional": [
+            "Executive Education"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/bess_richelle_profile.jpg",
+        "lastName": "Bess",
+        "link": "https://www.scheller.gatech.edu/directory/staff/bess/index.html",
+        "office": "3153",
+        "phone": "404-894-3358",
+        "status": [
+            "Staff"
+        ],
+        "suite": "310",
+        "title": "Academic Program Manager"
+    },
+    {
+        "email": "Kelley.Broome@scheller.gatech.edu",
+        "firstName": "Kelley",
+        "functional": [
+            "Career Services"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/broome_kelly_profile.jpg",
+        "lastName": "Broome",
+        "link": "https://www.scheller.gatech.edu/directory/staff/broome/index.html",
+        "office": "3113",
+        "phone": "404-894-1913",
+        "status": [
+            "Staff"
+        ],
+        "suite": "304",
+        "title": "Corporate Relations Manager"
+    },
+    {
+        "email": "sheena.brown@scheller.gatech.edu",
+        "firstName": "Sheena ",
+        "functional": [
+            "Denning T&M"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/brown_sheena_profile.jpg",
+        "lastName": "Brown",
+        "link": "https://www.scheller.gatech.edu/directory/staff/brown/index.html",
+        "office": "4428A",
+        "phone": "404-385-7688",
+        "status": [
+            "Staff"
+        ],
+        "suite": "4429",
+        "title": "Academic Program Coordinator"
+    },
+    {
+        "email": "lorrie.burroughs@scheller.gatech.edu",
+        "firstName": "Lorrie ",
+        "functional": [
+            "Communications"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/burroughs_lorrie_profile.jpg",
+        "lastName": "Burroughs",
+        "link": "https://www.scheller.gatech.edu/directory/staff/burroughs/index.html",
+        "office": "3245",
+        "phone": "404-385-0076",
+        "status": [
+            "Staff"
+        ],
+        "suite": "325",
+        "title": "Communications Officer"
+    },
+    {
+        "academic": [
+            "Operations Management"
+        ],
+        "email": "donghyun.choi@scheller.gatech.edu",
+        "firstName": "Donghyun",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/choi_dong_profile.jpg",
+        "lastName": "Choi",
+        "link": "https://www.scheller.gatech.edu/directory/phd/choi/index.html",
+        "office": "4322",
+        "phone": "",
+        "status": [
+            "PhD"
+        ],
+        "suite": "",
+        "title": "Ph.D. Student"
+    },
+    {
+        "academic": [
+            "Operations Management"
+        ],
+        "email": "li.ding@scheller.gatech.edu",
+        "firstName": "Li",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/ding_li_profile.jpg",
+        "lastName": "Ding",
+        "link": "https://www.scheller.gatech.edu/directory/phd/ding/index.html",
+        "office": "4307",
+        "phone": "404-385-1390",
+        "status": [
+            "PhD"
+        ],
+        "suite": "",
+        "title": "Ph.D. Candidate"
+    },
+    {
+        "academic": [
+            "Operations Management"
+        ],
+        "email": "shikha.safaya@scheller.gatech.edu",
+        "firstName": "Shikha",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/safaya_shikha_profile.jpg",
+        "lastName": "Safaya",
+        "link": "https://www.scheller.gatech.edu/directory/phd/safaya/index.html",
+        "office": "4322",
+        "phone": "",
+        "status": [
+            "PhD"
+        ],
+        "suite": "462H",
+        "title": "Ph.D. Student"
+    },
+    {
+        "academic": [
+            "Operations Management"
+        ],
+        "email": "ashubham3@gatech.edu",
+        "firstName": "Abhinav",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/shubham_abhinav_profile.jpg",
+        "lastName": "Shubham",
+        "link": "https://www.scheller.gatech.edu/directory/phd/shubham/index.html",
+        "office": "4322",
+        "phone": "979-721-0660",
+        "status": [
+            "PhD"
+        ],
+        "suite": "",
+        "title": "Ph.D. Student"
+    },
+    {
+        "academic": [
+            "Operations Management"
+        ],
+        "email": "zeya.wang@scheller.gatech.edu ",
+        "firstName": "Zeya",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/wang_zeya_profile.jpg",
+        "lastName": "Wang",
+        "link": "https://www.scheller.gatech.edu/directory/phd/wangz/index.html",
+        "office": "4280",
+        "phone": "919-638-0280",
+        "status": [
+            "PhD"
+        ],
+        "suite": "",
+        "title": "Ph.D. Candidate"
+    },
+    {
+        "academic": [
+            "Accounting"
+        ],
+        "email": "kathy.rupar@scheller.gatech.edu",
+        "firstName": "Kathy ",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/rupar_kathy_profile.jpg",
+        "lastName": "Rupar-Wang",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/rupar-wang/index.html",
+        "office": "4245",
+        "phone": "404-385-5713",
+        "position": [
+            "Assistant Professor"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "445",
+        "title": "Assistant Professor"
+    },
+    {
+        "academic": [
+            "Law and Ethics"
+        ],
+        "email": "steve.salbu@scheller.gatech.edu",
+        "firstName": "Steve",
+        "functional": [
+            "Business Analytics"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/salbu_steve_profile_2.jpg",
+        "lastName": "Salbu",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/salbu/index.html",
+        "office": "4162",
+        "phone": "404-385-5106",
+        "position": [
+            "Professor",
+            "Special Chairholder"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "",
+        "title": "Cecil B. Day Chair in Business Ethics"
+    },
+    {
+        "academic": [
+            "Accounting"
+        ],
+        "email": "arnold.schneider@scheller.gatech.edu",
+        "firstName": "Arnold",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/schneider_arnold_profile.jpg",
+        "lastName": "Schneider",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/schneider/index.html",
+        "office": "4242",
+        "phone": "404-894-4907",
+        "position": [
+            "Area Coordinator",
+            "Professor"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "442",
+        "title": "Professor"
+    },
+    {
+        "academic": [
+            "Organizational Behavior"
+        ],
+        "email": "christina.shalley@scheller.gatech.edu",
+        "firstName": "Christina",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/shalley_christina_profile.jpg",
+        "lastName": "Shalley",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/shalley/index.html",
+        "office": "4303",
+        "phone": "404-894-4922",
+        "position": [
+            "Area Coordinator",
+            "Professor",
+            "Special Chairholder"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "456",
+        "title": "Sharon M. and Matthew R. Price Chair"
+    },
+    {
+        "academic": [
+            "Finance"
+        ],
+        "email": "manpreet.singh@scheller.gatech.edu",
+        "firstName": "Manpreet",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/singh_manpreet_profile.jpg",
+        "lastName": "Singh",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/singh/index.html",
+        "office": "4130",
+        "phone": "404-385-5330",
+        "position": [
+            "Assistant Professor"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "407",
+        "title": "Assistant Professor"
+    },
+    {
+        "academic": [
+            "IT Management"
+        ],
+        "email": "Michael.Smith@scheller.gatech.edu",
+        "firstName": "Michael",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/smith_mike_profile.jpg",
+        "lastName": "Smith",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/smith.m/index.html",
+        "office": "4315",
+        "phone": "404-894-3192",
+        "position": [
+            "Senior Lecturer"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "",
+        "title": "Senior Lecturer"
+    },
+    {
+        "academic": [
+            "Finance"
+        ],
+        "email": "wendi.du@gatech.edu",
+        "firstName": "Wendi",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/du_wendi_profile.jpg",
+        "lastName": "Du",
+        "link": "https://www.scheller.gatech.edu/directory/phd/du/index.html",
+        "office": "4275",
+        "phone": "",
+        "status": [
+            "PhD"
+        ],
+        "suite": "",
+        "title": "Ph.D. Candidate"
+    },
+    {
+        "academic": [
+            "Strategy and Innovation"
+        ],
+        "email": "eunhee.sohn@scheller.gatech.edu",
+        "firstName": "Eunhee",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/sohn_eunhee_profile.jpg",
+        "lastName": "Sohn",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/sohn/index.html",
+        "office": "4413",
+        "phone": "404-385-4472",
+        "position": [
+            "Assistant Professor"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "400",
+        "title": "Assistant Professor"
+    },
+    {
+        "email": "Malvenia.Dasher@scheller.gatech.edu",
+        "firstName": "Malvenia",
+        "functional": [
+            "Executive MBA"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/dasher_malvenia_profile.jpg",
+        "lastName": "Dasher",
+        "link": "https://www.scheller.gatech.edu/directory/staff/dasher/index.html",
+        "office": "3157D",
+        "phone": "404-385-2442",
+        "status": [
+            "Staff"
+        ],
+        "suite": "310",
+        "title": "Assistant Director, Executive MBA Admissions and Recruiting"
+    },
+    {
+        "academic": [
+            "Marketing"
+        ],
+        "email": "tracey.swartz@scheller.gatech.edu",
+        "firstName": "Tracey A.",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/swartz_tracey_profile.jpg",
+        "lastName": "Swartz",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/swartz/index.html",
+        "office": "4230",
+        "phone": "404-894-2192",
+        "position": [
+            "Assistant Professor"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "417",
+        "title": "Assistant Professor"
+    },
+    {
+        "academic": [
+            "Law and Ethics"
+        ],
+        "email": "Peter.Swire@scheller.gatech.edu",
+        "firstName": "Peter",
+        "functional": [
+            "Business Analytics"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/swire_peter_profile.jpg",
+        "lastName": "Swire",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/swire/index.html",
+        "office": "4163",
+        "phone": "240-994-4142",
+        "position": [
+            "Professor"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "",
+        "title": "Professor"
+    },
+    {
+        "academic": [
+            "Accounting"
+        ],
+        "email": "jane.thayer@scheller.gatech.edu",
+        "firstName": "Jane",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/thayer_jane_profile.jpg",
+        "lastName": "Thayer",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/thayer/index.html",
+        "office": "4241",
+        "phone": "404-894-4395",
+        "position": [
+            "Associate Professor"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "441",
+        "title": "Associate Professor"
+    },
+    {
+        "academic": [
+            "Strategy and Innovation"
+        ],
+        "email": "mythien@gatech.edu",
+        "firstName": "Thien",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/dong_thien_profile.jpg",
+        "lastName": "Dong",
+        "link": "https://www.scheller.gatech.edu/directory/phd/dong/index.html",
+        "office": "4419",
+        "phone": "470-312-0090",
+        "status": [
+            "PhD"
+        ],
+        "suite": "",
+        "title": "Ph.D. Student"
+    },
+    {
+        "email": "michael.dutcher@scheller.gatech.edu",
+        "firstName": "Michael",
+        "functional": [
+            "Undergraduate"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/dutcher_michael_profile-205x205.jpg",
+        "lastName": "Dutcher",
+        "link": "https://www.scheller.gatech.edu/directory/staff/dutcher/index.html",
+        "office": "3322",
+        "phone": "404-385-1219",
+        "status": [
+            "Staff"
+        ],
+        "suite": "322",
+        "title": "Director, Undergraduate Career Education"
+    },
+    {
+        "academic": [
+            "Accounting"
+        ],
+        "email": "peina.liu@scheller.gatech.edu",
+        "firstName": "Peina",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/liu_peina_profile.jpg",
+        "lastName": "Liu",
+        "link": "https://www.scheller.gatech.edu/directory/phd/liu/index.html",
+        "office": "4310",
+        "phone": "",
+        "status": [
+            "PhD"
+        ],
+        "suite": "",
+        "title": "Ph.D. Candidate"
+    },
+    {
+        "academic": [
+            "Organizational Behavior"
+        ],
+        "email": "robert.thomas@ilsi.gatech.edu",
+        "firstName": "Robert",
+        "functional": [
+            "ILSI"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/thomas_robert_profile.jpg",
+        "lastName": "Thomas",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/thomas/index.html",
+        "office": "4153B",
+        "phone": "404-894-9473",
+        "position": [
+            "Professor of the Practice"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "ILSI",
+        "title": "Professor of the Practice"
+    },
+    {
+        "academic": [
+            "Finance"
+        ],
+        "email": "mwang445@gatech.edu",
+        "firstName": "Mingxun",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/wang_mingxun_profile.jpg",
+        "lastName": "Wang",
+        "link": "https://www.scheller.gatech.edu/directory/phd/wangm/index.html",
+        "office": "4000",
+        "phone": "",
+        "status": [
+            "PhD"
+        ],
+        "suite": "",
+        "title": "Ph.D. Student"
+    },
+    {
+        "academic": [
+            "Strategy and Innovation"
+        ],
+        "email": "peter.thompson@scheller.gatech.edu",
+        "firstName": "Peter",
+        "functional": [
+            "TI:GER and CDL"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/thompson_peter_profile.jpg",
+        "lastName": "Thompson",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/thompson/index.html",
+        "office": "4438",
+        "phone": "404-510-1592",
+        "position": [
+            "Professor",
+            "Special Chairholder"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "",
+        "title": "Hal and John Smith Chair in Small Business and Entrepreneurship"
+    },
+    {
+        "academic": [
+            "Strategy and Innovation"
+        ],
+        "email": "bill.todd@scheller.gatech.edu",
+        "firstName": "Bill",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/todd_bill_profile-205x205.jpg",
+        "lastName": "Todd",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/todd/index.html",
+        "office": "4236",
+        "phone": "404-385-2312",
+        "position": [
+            "Professor of the Practice"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "",
+        "title": "Professor of the Practice"
+    },
+    {
+        "academic": [
+            "IT Management"
+        ],
+        "email": "rich.zhu@scheller.gatech.edu",
+        "firstName": "Ruiqi Rich",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/zhu_rich_profile.jpg",
+        "lastName": "Zhu",
+        "link": "https://www.scheller.gatech.edu/directory/phd/zhur/index.html",
+        "office": "4309",
+        "phone": "650-660-9827",
+        "status": [
+            "PhD"
+        ],
+        "suite": "",
+        "title": "Ph.D. Candidate"
+    },
+    {
+        "academic": [
+            "Accounting"
+        ],
+        "email": "deborah.turner@scheller.gatech.edu",
+        "firstName": "Deborah",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/turner_debbie_profile-205x205.jpg",
+        "lastName": "Turner",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/turner_d/index.html",
+        "office": "4243",
+        "phone": "404-894-4900",
+        "position": [
+            "Associate Professor"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "443",
+        "title": "Associate Professor"
+    },
+    {
+        "academic": [
+            "Marketing"
+        ],
+        "email": "francis.ulgado@scheller.gatech.edu",
+        "firstName": "Francis",
+        "functional": [
+            "CIBER"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/ulgado_francis_profile.jpg",
+        "lastName": "Ulgado",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/ulgado/index.html",
+        "office": "4138",
+        "phone": "404-894-4360",
+        "position": [
+            "Associate Professor"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "425",
+        "title": "Faculty Research Director, CIBER"
+    },
+    {
+        "academic": [
+            "Finance"
+        ],
+        "email": "daniel.weagley@scheller.gatech.edu",
+        "firstName": "Daniel",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/weagley_daniel_profile.jpg",
+        "lastName": "Weagley",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/weagley/index.html",
+        "office": "4217",
+        "phone": "",
+        "position": [
+            "Assistant Professor",
+            "Professorship"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "",
+        "title": "Hubert L. Harris Early Career Professor"
+    },
+    {
+        "academic": [
+            "Organizational Behavior"
+        ],
+        "email": "egan.lua@gatech.edu",
+        "firstName": "Egan",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/egan_lua_profile.jpg",
+        "lastName": "Lua",
+        "link": "https://www.scheller.gatech.edu/directory/phd/lua/index.html",
+        "office": "4318",
+        "phone": "",
+        "status": [
+            "PhD"
+        ],
+        "suite": "",
+        "title": "Ph.D. Student"
+    },
+    {
+        "academic": [
+            "IT Management"
+        ],
+        "email": "dj.wu@scheller.gatech.edu",
+        "firstName": "D.J.",
+        "functional": [
+            "Business Analytics"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/wu_dj_profile.jpg",
+        "lastName": "Wu",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/wu/index.html",
+        "office": "4269",
+        "phone": "404-894-4364",
+        "position": [
+            "Area Coordinator",
+            "Professor",
+            "Special Chairholder"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "477",
+        "title": "Ernest Scheller Jr. Chair in Innovation, Entrepreneurship and Commercialization"
+    },
+    {
+        "academic": [
+            "Marketing"
+        ],
+        "email": "myercan3@gatech.edu",
+        "firstName": "Merve",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/uzunogullari_merve_profile.jpg",
+        "lastName": "Uzunogullari",
+        "link": "https://www.scheller.gatech.edu/directory/phd/uzunogullari/index.html",
+        "office": "4000",
+        "phone": "",
+        "status": [
+            "PhD"
+        ],
+        "suite": "",
+        "title": "Ph.D. Candidate"
+    },
+    {
+        "academic": [
+            "Organizational Behavior"
+        ],
+        "email": "eunsoo.son@scheller.gatech.edu",
+        "firstName": "Eun Soo",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/son_eun_soo_profile.jpg",
+        "lastName": "Son",
+        "link": "https://www.scheller.gatech.edu/directory/phd/son/index.html",
+        "office": "4317",
+        "phone": "404-536-4561",
+        "status": [
+            "PhD"
+        ],
+        "suite": "",
+        "title": "Ph.D. Student"
+    },
+    {
+        "academic": [
+            "IT Management"
+        ],
+        "email": "Lizhen.Xu@scheller.gatech.edu",
+        "firstName": "Lizhen",
+        "functional": [
+            "Business Analytics"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/xu_lizhen_profile-205x205.jpg",
+        "lastName": "Xu",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/xu/index.html",
+        "office": "4266",
+        "phone": "404-894-4380",
+        "position": [
+            "Associate Professor"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "473",
+        "title": "Associate Professor"
+    },
+    {
+        "academic": [
+            "IT Management"
+        ],
+        "email": "chunghan@gatech.edu",
+        "firstName": "Chunghan",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/kang_chunghan_profile.jpg",
+        "lastName": "Kang",
+        "link": "https://www.scheller.gatech.edu/directory/phd/kang/index.html",
+        "office": "4309",
+        "phone": "404-934-9561",
+        "status": [
+            "PhD"
+        ],
+        "suite": "462C",
+        "title": "Ph.D. Candidate"
+    },
+    {
+        "academic": [
+            "IT Management"
+        ],
+        "email": "han.zhang@scheller.gatech.edu",
+        "firstName": "Han",
+        "functional": [
+            "Business Analytics",
+            "Denning T&M"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/zhang_han_profile.jpg",
+        "lastName": "Zhang",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/zhang/index.html",
+        "office": "4267",
+        "phone": "404-894-4373",
+        "position": [
+            "Professor"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "475",
+        "title": "Steven A. Denning Professor in Technology & Management"
+    },
+    {
+        "academic": [
+            "Accounting"
+        ],
+        "email": "charles.irons@scheller.gatech.edu",
+        "firstName": "Charley",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/irons_charles_profile-205x205.jpg",
+        "lastName": "Irons",
+        "link": "https://www.scheller.gatech.edu/directory/phd/irons/index.html",
+        "office": "461G",
+        "phone": "404-894-9474",
+        "status": [
+            "PhD"
+        ],
+        "suite": "",
+        "title": "Ph.D. Student"
+    },
+    {
+        "academic": [
+            "IT Management"
+        ],
+        "email": "qixin.ye@scheller.gatech.edu",
+        "firstName": "Qixin",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/ye_qixin_profile.jpg",
+        "lastName": "Ye",
+        "link": "https://www.scheller.gatech.edu/directory/phd/ye/index.html",
+        "office": "4308",
+        "phone": "",
+        "status": [
+            "PhD"
+        ],
+        "suite": "",
+        "title": "Ph.D. Student"
+    },
+    {
+        "academic": [
+            "Finance"
+        ],
+        "email": "yue.hu@gatech.edu",
+        "firstName": "Yue",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/0-no-photo.png",
+        "lastName": "Hu",
+        "link": "https://www.scheller.gatech.edu/directory/phd/huy/index.html",
+        "office": "4275",
+        "phone": "917-742-0798",
+        "status": [
+            "PhD"
+        ],
+        "suite": "461B",
+        "title": "Ph.D. Student"
+    },
+    {
+        "academic": [
+            "Finance"
+        ],
+        "email": "yafei.zhang@gatech.edu",
+        "firstName": "Yafei",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/zhang_yafei_profile.jpg",
+        "lastName": "Zhang",
+        "link": "https://www.scheller.gatech.edu/directory/phd/zhang/index.html",
+        "office": "4274",
+        "phone": "404-723-8144",
+        "status": [
+            "PhD"
+        ],
+        "suite": "461C",
+        "title": "Ph.D. Candidate"
+    },
+    {
+        "email": "david.eady@gatech.edu",
+        "firstName": "David ",
+        "functional": [
+            "Sustainability"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/centers-and-initiatives/sustainability/drawdown/DS-Eady-20190929.jpg",
+        "lastName": "Eady",
+        "link": "https://www.scheller.gatech.edu/directory/staff/eady/index.html",
+        "office": "4426A",
+        "phone": "404-894-3038",
+        "status": [
+            "Staff"
+        ],
+        "suite": "",
+        "title": "Industry Engagement Manager Sr."
+    },
+    {
+        "email": "james.emery@scheller.gatech.edu",
+        "firstName": "James ",
+        "functional": [
+            "IT Services"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/emery_james_profile.jpg",
+        "lastName": "Emery",
+        "link": "https://www.scheller.gatech.edu/directory/staff/emery/index.html",
+        "office": "2105",
+        "phone": "404-385-0767",
+        "status": [
+            "Staff"
+        ],
+        "suite": "204",
+        "title": "IT Support Professional"
+    },
+    {
+        "email": "christine.esposito@scheller.gatech.edu",
+        "firstName": "Christine",
+        "functional": [
+            "Development"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/esposito_christine_profile.jpg",
+        "lastName": "Esposito",
+        "link": "https://www.scheller.gatech.edu/directory/staff/esposito/index.html",
+        "office": "4425",
+        "phone": "404-385-5338",
+        "status": [
+            "Staff"
+        ],
+        "suite": "400",
+        "title": "Development Associate"
+    },
+    {
+        "email": "tiffany.ezeokonkwo@scheller.gatech.edu",
+        "firstName": "Tiffany ",
+        "functional": [
+            "IT Services"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/Ezeokonkwo_Tiffany_profile.jpg",
+        "lastName": "Ezeokonkwo",
+        "link": "https://www.scheller.gatech.edu/directory/staff/ezeokonkwo/index.html",
+        "office": "2105",
+        "phone": "",
+        "status": [
+            "Staff"
+        ],
+        "suite": "204",
+        "title": "IT Application Support Sr."
+    },
+    {
+        "email": "patrice.faison@scheller.gatech.edu",
+        "firstName": "Patrice",
+        "functional": [
+            "Evening MBA",
+            "Full-time MBA"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/faison_patrice_profile.jpg",
+        "lastName": "Faison",
+        "link": "https://www.scheller.gatech.edu/directory/staff/faison/index.html",
+        "office": "3126B",
+        "phone": "404-385-5496",
+        "status": [
+            "Staff"
+        ],
+        "suite": "302",
+        "title": "Academic Program Manager, Evening MBA"
+    },
+    {
+        "email": "larry.faskowitz@scheller.gatech.edu",
+        "firstName": "Larry",
+        "functional": [
+            "Career Services",
+            "Full-time MBA"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/faskowitz_larry_profile.jpg",
+        "lastName": "Faskowitz",
+        "link": "https://www.scheller.gatech.edu/directory/staff/faskowitz/index.html",
+        "office": "3112",
+        "phone": "404-385-3294",
+        "status": [
+            "Staff"
+        ],
+        "suite": "304",
+        "title": "MBA Corporate Relations Manager"
+    },
+    {
+        "email": "jessica.french@scheller.gatech.edu",
+        "firstName": "Jessica",
+        "functional": [
+            "Executive MBA",
+            "Executive Education"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/french_jessica_profile-205x205.jpg",
+        "lastName": "French",
+        "link": "https://www.scheller.gatech.edu/directory/staff/french/index.html",
+        "office": "3157C",
+        "phone": "404-385-3999",
+        "status": [
+            "Staff"
+        ],
+        "suite": "310",
+        "title": "Student Engagement and Events Manager"
+    },
+    {
+        "email": "sheryl.george@scheller.gatech.edu",
+        "firstName": "Sheryl",
+        "functional": [
+            "IT Services"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/george_sheryl_profile.jpg",
+        "lastName": "George",
+        "link": "https://www.scheller.gatech.edu/directory/staff/george/index.html",
+        "office": "2105",
+        "phone": "404-894-8402",
+        "status": [
+            "Staff"
+        ],
+        "suite": "204",
+        "title": "IT Support Professional"
+    },
+    {
+        "email": "malisa.ngalame@scheller.gatech.edu",
+        "firstName": "Malisa",
+        "functional": [
+            "Executive Education"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/ngalame_malisa_profile-205x205.jpg",
+        "lastName": "Ngalame",
+        "link": "https://www.scheller.gatech.edu/directory/staff/ngalame/index.html",
+        "office": "3157B",
+        "phone": "404-385-0548",
+        "status": [
+            "Staff"
+        ],
+        "suite": "310",
+        "title": "Lean Six Sigma Program Manager"
+    },
+    {
+        "email": "quashavia.harper@scheller.gatech.edu",
+        "firstName": "Quashavia",
+        "functional": [
+            "Administration"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/harper_quashavia_profile.jpg",
+        "lastName": "Harper",
+        "link": "https://www.scheller.gatech.edu/directory/staff/harper/index.html",
+        "office": "4272",
+        "phone": "404-385-3266",
+        "status": [
+            "Staff"
+        ],
+        "suite": "",
+        "title": "Administrative Professional"
+    },
+    {
+        "email": "drew.harvill@scheller.gatech.edu",
+        "firstName": "Drew",
+        "functional": [
+            "Evening MBA"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/harvill_drew_profile.jpg",
+        "lastName": "Harvill",
+        "link": "https://www.scheller.gatech.edu/directory/staff/harvill/index.html",
+        "office": "3132",
+        "phone": "404-385-5472",
+        "status": [
+            "Staff"
+        ],
+        "suite": "302",
+        "title": "Senior Academic Program Manager"
+    },
+    {
+        "email": "terrance.hines@scheller.gatech.edu",
+        "firstName": "Terrance",
+        "functional": [
+            "Executive Education"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/hines_terrance_profile.jpg",
+        "lastName": "Hines",
+        "link": "https://www.scheller.gatech.edu/directory/staff/hines/index.html",
+        "office": "3156H",
+        "phone": "404-385-5318",
+        "status": [
+            "Staff"
+        ],
+        "suite": "310",
+        "title": "Academic Program Manager"
+    },
+    {
+        "email": "james.hoadley@scheller.gatech.edu",
+        "firstName": "James",
+        "functional": [
+            "CIBER"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/hoadley_jim_profile.jpg",
+        "lastName": "Hoadley",
+        "link": "https://www.scheller.gatech.edu/directory/staff/hoadley/index.html",
+        "office": "4118",
+        "phone": "404-894-4379",
+        "status": [
+            "Staff"
+        ],
+        "suite": "421C",
+        "title": "Associate Director of CIBER"
+    },
+    {
+        "email": "ramona.howard@scheller.gatech.edu",
+        "firstName": "Ramona ",
+        "functional": [
+            "Executive MBA"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/howard_ramona_profile.jpg",
+        "lastName": "Howard",
+        "link": "https://www.scheller.gatech.edu/directory/staff/howard/index.html",
+        "office": "3153A",
+        "phone": "404-894-3946",
+        "status": [
+            "Staff"
+        ],
+        "suite": "310",
+        "title": "Academic Program Manager"
+    },
+    {
+        "email": "codell.jackson@scheller.gatech.edu",
+        "firstName": "Codell",
+        "functional": [
+            "IT Services"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/0-no-photo.png",
+        "lastName": "Jackson",
+        "link": "https://www.scheller.gatech.edu/directory/staff/jackson/index.html",
+        "office": "2105",
+        "phone": "",
+        "status": [
+            "Staff"
+        ],
+        "suite": "204",
+        "title": "Application Support Analyst II"
+    },
+    {
+        "email": "douane.james@scheller.gatech.edu",
+        "firstName": "Douane",
+        "functional": [
+            "IT Services"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/0-no-photo.png",
+        "lastName": "James",
+        "link": "https://www.scheller.gatech.edu/directory/staff/james/index.html",
+        "office": "2015",
+        "phone": "404-894-2941",
+        "status": [
+            "Staff"
+        ],
+        "suite": "204",
+        "title": "Application Support Analyst Lead"
+    },
+    {
+        "email": "anthony.jenkins@scheller.gatech.edu",
+        "firstName": "Anthony",
+        "functional": [
+            "IT Services"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/jenkins_anthony_profile.jpg",
+        "lastName": "Jenkins",
+        "link": "https://www.scheller.gatech.edu/directory/staff/jenkins/index.html",
+        "office": "2105",
+        "phone": "404-385-0311",
+        "status": [
+            "Staff"
+        ],
+        "suite": "204",
+        "title": "IT Support Professional Sr."
+    },
+    {
+        "email": "paul.johnson@scheller.gatech.edu",
+        "firstName": "Paul",
+        "functional": [
+            "Communications"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/johnson_paul_profile-205x205.jpg",
+        "lastName": "Johnson",
+        "link": "https://www.scheller.gatech.edu/directory/staff/johnsonp/index.html",
+        "office": "3236",
+        "phone": "404-894-2937",
+        "status": [
+            "Staff"
+        ],
+        "suite": "325",
+        "title": "Web Developer Sr."
+    },
+    {
+        "email": "mark.lambros@scheller.gatech.edu",
+        "firstName": "Mark",
+        "functional": [
+            "Facilities"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/lambros_mark_profile.jpg",
+        "lastName": "Lambros",
+        "link": "https://www.scheller.gatech.edu/directory/staff/lambros/index.html",
+        "office": "3302E",
+        "phone": "404-385-5529",
+        "status": [
+            "Staff"
+        ],
+        "suite": "325",
+        "title": "Facilities Manager"
+    },
+    {
+        "email": "peter.lee@scheller.gatech.edu",
+        "firstName": "Peter ",
+        "functional": [
+            "Communications"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/lee_peter_profile-205x205.jpg",
+        "lastName": "Lee",
+        "link": "https://www.scheller.gatech.edu/directory/staff/lee/index.html",
+        "office": "3234",
+        "phone": "404-932-5250",
+        "status": [
+            "Staff"
+        ],
+        "suite": "325",
+        "title": "Creative Services Manager"
+    },
+    {
+        "email": "nicole.little@ilsi.gatech.edu",
+        "firstName": "Nicole",
+        "functional": [
+            "ILSI"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/howe_nicole_profile.jpg",
+        "lastName": "Little",
+        "link": "https://www.scheller.gatech.edu/directory/staff/little/index.html",
+        "office": "4151",
+        "phone": "404-894-4363",
+        "status": [
+            "Staff"
+        ],
+        "suite": "ILSI",
+        "title": "Assistant Director of Operations"
+    },
+    {
+        "email": "Jennifer.lux@scheller.gatech.edu",
+        "firstName": "Jennifer Holley",
+        "functional": [
+            "Sustainability"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/lux_jennifer_profile-205x205.jpg",
+        "lastName": "Lux",
+        "link": "https://www.scheller.gatech.edu/directory/staff/lux/index.html",
+        "office": "4426B",
+        "phone": "",
+        "status": [
+            "Staff"
+        ],
+        "suite": "",
+        "title": "Writer\/Editor"
+    },
+    {
+        "email": "anne.lynch@scheller.gatech.edu",
+        "firstName": "Anne",
+        "functional": [
+            "Denning T&M"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/lynch_anne_profile-205x205.jpg",
+        "lastName": "Lynch",
+        "link": "https://www.scheller.gatech.edu/directory/staff/lynch/index.html",
+        "office": "4431",
+        "phone": "404-385-3108",
+        "status": [
+            "Staff"
+        ],
+        "suite": "4429",
+        "title": "Communications Manager II"
+    },
+    {
+        "email": "joe.macri@scheller.gatech.edu",
+        "firstName": "Joe",
+        "functional": [
+            "Communications"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/macri_joe_profile.jpg",
+        "lastName": "Macri",
+        "link": "https://www.scheller.gatech.edu/directory/staff/macri/index.html",
+        "office": "3238",
+        "phone": "404-894-8260",
+        "status": [
+            "Staff"
+        ],
+        "suite": "325",
+        "title": "Web Manager"
+    },
+    {
+        "email": "frankie.massaroni@scheller.gatech.edu",
+        "firstName": "Frankie ",
+        "functional": [
+            "Career Services"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/Massaroni_Frankie_profile.jpg",
+        "lastName": "Massaroni",
+        "link": "https://www.scheller.gatech.edu/directory/staff/massaroni/index.html",
+        "office": "3110A",
+        "phone": "",
+        "status": [
+            "Staff"
+        ],
+        "suite": "304",
+        "title": "MBA Career Services Manager"
+    },
+    {
+        "email": "valerie.mastrangelo@scheller.gatech.edu",
+        "firstName": "Valerie ",
+        "functional": [
+            "Undergraduate"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/masterangelo_valerie_profile-205x205.jpg",
+        "lastName": "Mastrangelo",
+        "link": "https://www.scheller.gatech.edu/directory/staff/mastrangelo/index.html",
+        "office": "3317E",
+        "phone": "404-385-2899",
+        "status": [
+            "Staff"
+        ],
+        "suite": "322",
+        "title": "Undergraduate Programs Manager"
+    },
+    {
+        "email": "brittany.mccormick@scheller.gatech.edu",
+        "firstName": "Brittany",
+        "functional": [
+            "Communications"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/mccormick_brittany_profile.jpg",
+        "lastName": "McCormick",
+        "link": "https://www.scheller.gatech.edu/directory/staff/mccormick/index.html",
+        "office": "3237",
+        "phone": "404-385-3474",
+        "status": [
+            "Staff"
+        ],
+        "suite": "325",
+        "title": "Assistant Director, Marketing and Communications"
+    },
+    {
+        "email": "schantel.mitchell@scheller.gatech.edu",
+        "firstName": "Schantel",
+        "functional": [
+            "IT Services"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/mitchell_schantel_profile.jpg",
+        "lastName": "Mitchell",
+        "link": "https://www.scheller.gatech.edu/directory/staff/mitchell/index.html",
+        "office": "2106A",
+        "phone": "404-385-5513",
+        "status": [
+            "Staff"
+        ],
+        "suite": "204",
+        "title": "IT Service Delivery Manager"
+    },
+    {
+        "email": "camille.moore@scheller.gatech.edu",
+        "firstName": "Camille",
+        "functional": [
+            "Communications"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/moore_camille_profile.jpg",
+        "lastName": "Moore",
+        "link": "https://www.scheller.gatech.edu/directory/staff/moore/index.html",
+        "office": "3233B",
+        "phone": "",
+        "status": [
+            "Staff"
+        ],
+        "suite": "325",
+        "title": "Content Strategist"
+    },
+    {
+        "email": "catie.mullan@scheller.gatech.edu",
+        "firstName": "Catie",
+        "functional": [
+            "Full-time MBA"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/mullan_catie_profile.jpg",
+        "lastName": "Mullan",
+        "link": "https://www.scheller.gatech.edu/directory/staff/mullan/index.html",
+        "office": "3133",
+        "phone": "404-894-7251",
+        "status": [
+            "Staff"
+        ],
+        "suite": "302",
+        "title": "Academic Program Manager II"
+    },
+    {
+        "email": "dori.pap@scheller.gatech.edu",
+        "firstName": "Dori",
+        "functional": [
+            "ILSI"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/pap_dori_profile.jpg",
+        "lastName": "Pap",
+        "link": "https://www.scheller.gatech.edu/directory/staff/pap/index.html",
+        "office": "4152",
+        "phone": "404-385-3278",
+        "status": [
+            "Staff"
+        ],
+        "suite": "ILSI",
+        "title": "Managing Director, Leadership and Social Impact"
+    },
+    {
+        "email": "spatel3004@gatech.edu",
+        "firstName": "Shivani",
+        "functional": [
+            "Undergraduate"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/patel_shivani_profile.jpg",
+        "lastName": "Patel",
+        "link": "https://www.scheller.gatech.edu/directory/staff/patel/index.html",
+        "office": "3317A",
+        "phone": "404-385-5280",
+        "status": [
+            "Staff"
+        ],
+        "suite": "322",
+        "title": "Academic Advisor"
+    },
+    {
+        "email": "madolyn.penuel@scheller.gatech.edu",
+        "firstName": "Madolyn",
+        "functional": [
+            "Administration"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/penuel_madolyn_profile.jpg",
+        "lastName": "Penuel",
+        "link": "https://www.scheller.gatech.edu/directory/staff/penuel/index.html",
+        "office": "3312",
+        "phone": "404-385-2049",
+        "status": [
+            "Staff"
+        ],
+        "suite": "325",
+        "title": "Executive Assistant to the Dean"
+    },
+    {
+        "email": "jewel.perkins@scheller.gatech.edu",
+        "firstName": "R. Jewel",
+        "functional": [
+            "Undergraduate"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/Perkins_Jewel_profile1.jpg",
+        "lastName": "Perkins",
+        "link": "https://www.scheller.gatech.edu/directory/staff/perkins/index.html",
+        "office": "3317D",
+        "phone": "404-385-5278",
+        "status": [
+            "Staff"
+        ],
+        "suite": "322",
+        "title": "Academic Advisor I"
+    },
+    {
+        "email": "caroline.player@scheller.gatech.edu",
+        "firstName": "Caroline",
+        "functional": [
+            "Career Services",
+            "Full-time MBA"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/player_caroline_profile.jpg",
+        "lastName": "Player",
+        "link": "https://www.scheller.gatech.edu/directory/staff/player/index.html",
+        "office": "3107",
+        "phone": "404-894-1465",
+        "status": [
+            "Staff"
+        ],
+        "suite": "304",
+        "title": "Corporate Relations Manager"
+    },
+    {
+        "email": "kristen.pratt@scheller.gatech.edu",
+        "firstName": "Kristen",
+        "functional": [
+            "Career Services",
+            "Evening MBA"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/pratt_kristen_profile.jpg",
+        "lastName": "Pratt",
+        "link": "https://www.scheller.gatech.edu/directory/staff/pratt/index.html",
+        "office": "3108",
+        "phone": "404-385-3103",
+        "status": [
+            "Staff"
+        ],
+        "suite": "304",
+        "title": "Corporate Relations Manager"
+    },
+    {
+        "email": "marcus.reese@scheller.gatech.edu",
+        "firstName": "Marcus",
+        "functional": [
+            "Undergraduate"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/reese_marcus_profile.jpg",
+        "lastName": "Reese",
+        "link": "https://www.scheller.gatech.edu/directory/staff/reese/index.html",
+        "office": "3317B",
+        "phone": "404-894-2673",
+        "status": [
+            "Staff"
+        ],
+        "suite": "322",
+        "title": "Academic Advisor I"
+    },
+    {
+        "email": "beatriz.rodriguez@scheller.gatech.edu",
+        "firstName": "Beatriz",
+        "functional": [
+            "Undergraduate"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/rodriguez_beatriz_profile-205x205.jpg",
+        "lastName": "Rodriguez",
+        "link": "https://www.scheller.gatech.edu/directory/staff/rodriguez/index.html",
+        "office": "3321",
+        "phone": "404-894-5771",
+        "status": [
+            "Staff"
+        ],
+        "suite": "322",
+        "title": "Assistant Dean, Director of Engagement and Operations"
+    },
+    {
+        "email": "peter.severa@scheller.gatech.edu",
+        "firstName": "Peter",
+        "functional": [
+            "Evening MBA",
+            "Full-time MBA"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/severa_peter_profile.jpg",
+        "lastName": "Severa",
+        "link": "https://www.scheller.gatech.edu/directory/staff/severa/index.html",
+        "office": "3129",
+        "phone": "404-385-2711",
+        "status": [
+            "Staff"
+        ],
+        "suite": "302",
+        "title": "Assistant Dean of Student Engagement - MBA Programs"
+    },
+    {
+        "email": "jessica.sherrington@scheller.gatech.edu",
+        "firstName": "Jessica",
+        "functional": [
+            "Undergraduate"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/sherrington_jessica_profile.jpg",
+        "lastName": "Sherrington",
+        "link": "https://www.scheller.gatech.edu/directory/staff/sherrington/index.html",
+        "office": "3317C",
+        "phone": "404-385-5279",
+        "status": [
+            "Staff"
+        ],
+        "suite": "322",
+        "title": "Academic Advisor"
+    },
+    {
+        "email": "Roger.Simms@scheller.gatech.edu",
+        "firstName": "Roger",
+        "functional": [
+            "IT Services"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/simms_roger_profile.jpg",
+        "lastName": "Simms",
+        "link": "https://www.scheller.gatech.edu/directory/staff/simms/index.html",
+        "office": "2106",
+        "phone": "404-894-3803",
+        "status": [
+            "Staff"
+        ],
+        "suite": "204",
+        "title": "IT Asset Coordinator"
+    },
+    {
+        "email": "amber.slyter@ilsi.gatech.edu",
+        "firstName": "Amber",
+        "functional": [
+            "ILSI"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/slyter_amber_profile.jpg",
+        "lastName": "Slyter",
+        "link": "https://www.scheller.gatech.edu/directory/staff/slyter/index.html",
+        "office": "4166",
+        "phone": "",
+        "status": [
+            "Staff"
+        ],
+        "suite": "",
+        "title": "Meeting and Event Manager"
+    },
+    {
+        "email": "shannon.smith@scheller.gatech.edu",
+        "firstName": "Shannon",
+        "functional": [
+            "Administration"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/smith_shannon_profile.jpg",
+        "lastName": "Smith",
+        "link": "https://www.scheller.gatech.edu/directory/staff/smith/index.html",
+        "office": "4155",
+        "phone": "404-894-3587",
+        "status": [
+            "Staff"
+        ],
+        "suite": "",
+        "title": "Administrative Supervisor"
+    },
+    {
+        "email": "Julia.Snell@scheller.gatech.edu",
+        "firstName": "Julia",
+        "functional": [
+            "Evening MBA",
+            "Full-time MBA"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/snell_julia_profile2.jpg",
+        "lastName": "Snell",
+        "link": "https://www.scheller.gatech.edu/directory/staff/snell/index.html",
+        "office": "3133",
+        "phone": "404-894-9124",
+        "status": [
+            "Staff"
+        ],
+        "suite": "302",
+        "title": "Director of MBA Student Services"
+    },
+    {
+        "email": "michelle.solomon@scheller.gatech.edu",
+        "firstName": "Michelle",
+        "functional": [
+            "Accounting and Finance"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/solomon_michelle_profile.jpg",
+        "lastName": "Solomon",
+        "link": "https://www.scheller.gatech.edu/directory/staff/solomon/index.html",
+        "office": "3242",
+        "phone": "404-385-5250",
+        "status": [
+            "Staff"
+        ],
+        "suite": "325",
+        "title": "Financial Manager II"
+    },
+    {
+        "email": "simona.spagnoli@scheller.gatech.edu",
+        "firstName": "Simona",
+        "functional": [
+            "TI:GER and CDL"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/spagnoli_simona_profile-205x205.jpg",
+        "lastName": "Spagnoli",
+        "link": "https://www.scheller.gatech.edu/directory/staff/spagnoli/index.html",
+        "office": "4121",
+        "phone": "404-385-3275",
+        "status": [
+            "Staff"
+        ],
+        "suite": "",
+        "title": "Assistant Director of Communications, TI:GER"
+    },
+    {
+        "email": "lindsay.staar@scheller.gatech.edu",
+        "firstName": "Lindsay",
+        "functional": [
+            "Undergraduate"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/staar_lindsay_profile-205x205.jpg",
+        "lastName": "Staar",
+        "link": "https://www.scheller.gatech.edu/directory/staff/staar/index.html",
+        "office": "3320",
+        "phone": "404-385-7537",
+        "status": [
+            "Staff"
+        ],
+        "suite": "322",
+        "title": "Academic Advisor"
+    },
+    {
+        "email": "Kevin.Stacia@scheller.gatech.edu",
+        "firstName": "Kevin",
+        "functional": [
+            "Career Services"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/stacia_kevin_profile.jpg",
+        "lastName": "Stacia",
+        "link": "https://www.scheller.gatech.edu/directory/staff/stacia/index.html",
+        "office": "3111",
+        "phone": "404-385-4148",
+        "status": [
+            "Staff"
+        ],
+        "suite": "304",
+        "title": "Corporate Relations Manager"
+    },
+    {
+        "email": "joy.stewart@scheller.gatech.edu",
+        "firstName": "Joy",
+        "functional": [
+            "Accounting and Finance"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/Stewart_Joy_profile.jpg",
+        "lastName": "Stewart",
+        "link": "https://www.scheller.gatech.edu/directory/staff/stewart/index.html",
+        "office": "3244",
+        "phone": "",
+        "status": [
+            "Staff"
+        ],
+        "suite": "325",
+        "title": "Financial Analyst II"
+    },
+    {
+        "email": "sherri.vonbehren@scheller.gatech.edu",
+        "firstName": "Sherri",
+        "functional": [
+            "Business Analytics"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/von_behren_sherri_profile.jpg",
+        "lastName": "Von Behren",
+        "link": "https://www.scheller.gatech.edu/directory/staff/von-behren/index.html",
+        "office": "4000",
+        "phone": "404-432-3352",
+        "status": [
+            "Staff"
+        ],
+        "suite": "400",
+        "title": "Corporate Engagement Manager"
+    },
+    {
+        "email": "kerrie.ward@scheller.gatech.edu",
+        "firstName": "Kerrie",
+        "functional": [
+            "Administration"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/ward_karrie_profile-205x205.jpg",
+        "lastName": "Ward",
+        "link": "https://www.scheller.gatech.edu/directory/staff/ward/index.html",
+        "office": "3241",
+        "phone": "404-385-5276",
+        "status": [
+            "Staff"
+        ],
+        "suite": "325",
+        "title": "Director of Faculty Administration"
+    },
+    {
+        "email": "rebecca.whitley@scheller.gatech.edu",
+        "firstName": "Rebecca",
+        "functional": [
+            "Full-time MBA"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/whitley_rebecca_profile-205x205.jpg",
+        "lastName": "Whitley",
+        "link": "https://www.scheller.gatech.edu/directory/staff/whitley/index.html",
+        "office": "3128",
+        "phone": "",
+        "status": [
+            "Staff"
+        ],
+        "suite": "302",
+        "title": "Director, Full-time MBA Recruiting"
+    },
+    {
+        "email": "abbey.callahan@scheller.gatech.edu",
+        "firstName": "Abbey",
+        "functional": [
+            "Administration",
+            "Alumni Relations"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/callahan_abbey_profile-205x205.jpg",
+        "lastName": "Callahan Strickland",
+        "link": "https://www.scheller.gatech.edu/directory/staff/callahan/index.html",
+        "office": "3243",
+        "phone": "404-894-6747",
+        "status": [
+            "Staff"
+        ],
+        "suite": "325",
+        "title": "Director of Alumni Relations"
+    },
+    {
+        "email": "sophia.cruz@scheller.gatech.edu",
+        "firstName": "Sophia",
+        "functional": [
+            "Evening MBA",
+            "Full-time MBA"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/cruz_sophia_profile.jpg",
+        "lastName": "Cruz",
+        "link": "https://www.scheller.gatech.edu/directory/staff/cruz/index.html",
+        "office": "3126E",
+        "phone": "404-894-4457",
+        "status": [
+            "Staff"
+        ],
+        "suite": "302",
+        "title": "MBA Admissions Officer"
+    },
+    {
+        "email": "sdobbs7@gatech.edu",
+        "firstName": "Steven",
+        "functional": [
+            "Sustainability"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/0-no-photo.png",
+        "lastName": "Dobbs",
+        "link": "https://www.scheller.gatech.edu/directory/staff/dobbs/index.html",
+        "office": "4426B",
+        "phone": "",
+        "status": [
+            "Staff"
+        ],
+        "suite": "",
+        "title": "Communications Officer II"
+    },
+    {
+        "email": "hazel.douglas@scheller.gatech.edu",
+        "firstName": "Hazel",
+        "functional": [
+            "Accounting and Finance"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/0-no-photo.png",
+        "lastName": "Douglas",
+        "link": "https://www.scheller.gatech.edu/directory/staff/douglas/index.html",
+        "office": "3246",
+        "phone": "404-385-6545",
+        "status": [
+            "Staff"
+        ],
+        "suite": "325",
+        "title": "Financial Admin Lead"
+    },
+    {
+        "academic": [
+            "Finance"
+        ],
+        "email": "manasa.gopal@scheller.gatech.edu",
+        "firstName": "Manasa",
+        "image": "https://www.scheller.gatech.edu/pix/directory/Gopal_Manasa_profile1.jpg",
+        "lastName": "Gopal",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/gopal/index.html",
+        "office": "4131",
+        "phone": "",
+        "position": [
+            "Assistant Professor"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "408",
+        "title": "Assistant Professor of Finance"
+    },
+    {
+        "academic": [
+            "Strategy and Innovation"
+        ],
+        "email": "stuart.graham@scheller.gatech.edu",
+        "firstName": "Stuart",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/graham_stuart_profile-205x205.jpg",
+        "lastName": "Graham",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/graham/index.html",
+        "office": "4440",
+        "phone": "404-385-0953",
+        "position": [
+            "Area Coordinator",
+            "Associate Professor"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "400",
+        "title": "Associate Professor"
+    },
+    {
+        "academic": [
+            "Marketing"
+        ],
+        "email": "chris.gu@scheller.gatech.edu",
+        "firstName": "Chris",
+        "functional": [
+            "Business Analytics"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/gu_chris_profile-205x205.jpg",
+        "lastName": "Gu",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/gu/index.html",
+        "office": "4283",
+        "phone": "404-385-5328",
+        "position": [
+            "Assistant Professor"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "",
+        "title": "Assistant Professor"
+    },
+    {
+        "academic": [
+            "Marketing"
+        ],
+        "email": "hackett@gatech.edu",
+        "firstName": "Aaron",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/hackett_aaron_profile-205x205.jpg",
+        "lastName": "Hackett",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/hackett/index.html",
+        "office": "4158",
+        "phone": "404-385-1365",
+        "position": [
+            "Professor of the Practice"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "",
+        "title": "Professor of the Practice"
+    },
+    {
+        "academic": [
+            "Marketing"
+        ],
+        "email": "tim.halloran@scheller.gatech.edu",
+        "firstName": "Timothy",
+        "functional": [
+            "Executive MBA"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/halloran_tim_profile-205x205.jpg",
+        "lastName": "Halloran",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/halloran/index.html",
+        "office": "4210",
+        "phone": "404-218-4117",
+        "position": [
+            "Senior Lecturer"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "",
+        "title": "Senior Lecturer"
+    },
+    {
+        "academic": [
+            "Accounting"
+        ],
+        "email": "ywang4159@gatech.edu",
+        "firstName": "Yuxiao",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/wang_yuxiao_profile.jpg",
+        "lastName": "Wang",
+        "link": "https://www.scheller.gatech.edu/directory/phd/wangy/index.html",
+        "office": "461G",
+        "phone": "770-797-8345",
+        "status": [
+            "PhD"
+        ],
+        "suite": "",
+        "title": "Ph.D. Student"
+    },
+    {
+        "academic": [
+            "Accounting"
+        ],
+        "email": "doris.zhao@scheller.gatech.edu",
+        "firstName": "Fengxinyi",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/zhao_fengxinyi_profile.jpg",
+        "lastName": "Zhao",
+        "link": "https://www.scheller.gatech.edu/directory/phd/zhao/index.html",
+        "office": "4278",
+        "phone": "217-819-7435",
+        "status": [
+            "PhD"
+        ],
+        "suite": "",
+        "title": "Ph.D. Student"
+    },
+    {
+        "academic": [
+            "Strategy and Innovation"
+        ],
+        "email": "Ashlee.li@scheller.gatech.edu",
+        "firstName": "Ashlee",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/li_ashlee_profile.jpg",
+        "lastName": "Li",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/lia/index.html",
+        "office": "4422",
+        "phone": "404-385-2194",
+        "position": [
+            "Assistant Professor"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "",
+        "title": "Assistant Professor"
+    },
+    {
+        "email": "colby.mchugh@scheller.gatech.edu",
+        "firstName": "Colby",
+        "functional": [
+            "Evening MBA",
+            "Full-time MBA"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/mchugh_colby_profile.jpg",
+        "lastName": "McHugh",
+        "link": "https://www.scheller.gatech.edu/directory/staff/mchugh/index.html",
+        "office": "3126C",
+        "phone": "",
+        "status": [
+            "Staff"
+        ],
+        "suite": "302",
+        "title": "Academic Assistant II"
+    },
+    {
+        "email": "megan.lennox@scheller.gatech.edu",
+        "firstName": "Megan",
+        "functional": [
+            "Evening MBA",
+            "Full-time MBA"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/lennox_megan_profile.jpg",
+        "lastName": "Friedman",
+        "link": "https://www.scheller.gatech.edu/directory/staff/friedman/index.html",
+        "office": "3132",
+        "phone": "",
+        "status": [
+            "Staff"
+        ],
+        "suite": "302",
+        "title": "Director, MBA Operations and Admissions"
+    },
+    {
+        "email": "crystal.fowler@scheller.gatech.edu",
+        "firstName": "Crystal",
+        "functional": [
+            "Executive MBA"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/fowler_crystal_profile.jpg",
+        "lastName": "Fowler",
+        "link": "https://www.scheller.gatech.edu/directory/staff/fowler/index.html",
+        "office": "3165E",
+        "phone": "404-894-6987",
+        "status": [
+            "Staff"
+        ],
+        "suite": "310",
+        "title": "MBA Recruiting Manager"
+    },
+    {
+        "academic": [
+            "Finance"
+        ],
+        "email": "changsuk.bae@scheller.gatech.edu",
+        "firstName": "Chang Suk",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/bae_chang-suk_profile.jpg",
+        "lastName": "Bae",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/bae/index.html",
+        "office": "4148",
+        "phone": "",
+        "position": [
+            "Visiting Assistant Professor"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "",
+        "title": "Visiting Assistant Professor"
+    },
+    {
+        "email": "daniel.santos@scheller.gatech.edu",
+        "firstName": "Daniel ",
+        "functional": [
+            "Communications"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/santos_daniel_profile-205x205.jpg",
+        "lastName": "Santos",
+        "link": "https://www.scheller.gatech.edu/directory/staff/santos/index.html",
+        "office": "3236",
+        "phone": "",
+        "suite": "325",
+        "title": "Application Developer Lead"
+    },
+    {
+        "email": "elyse.zhao@scheller.gatech.edu",
+        "firstName": "Elyse",
+        "functional": [
+            "Development"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/zhao_elyse_profile-205x205.jpg",
+        "lastName": "Zhao",
+        "link": "https://www.scheller.gatech.edu/directory/staff/zhao/index.html",
+        "office": "4165",
+        "phone": "404-894-7064",
+        "status": [
+            "Staff"
+        ],
+        "suite": "489",
+        "title": "Director of Development"
+    },
+    {
+        "academic": [
+            "Strategy and Innovation"
+        ],
+        "email": "aleks.rebeka@scheller.gatech.edu",
+        "firstName": "Aleks",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/0-no-photo.png",
+        "lastName": "Rebeka",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/rebeka/index.html",
+        "office": "4412",
+        "phone": "404-385-5711",
+        "position": [
+            "Lecturer"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "400",
+        "title": "Lecturer"
+    },
+    {
+        "email": "renee.jamieson@scheller.gatech.edu",
+        "firstName": "Renee",
+        "functional": [
+            "PhD"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/jamieson_renee_profile.jpg",
+        "lastName": "Jamieson",
+        "link": "https://www.scheller.gatech.edu/directory/staff/jamieson/index.html",
+        "office": "4276",
+        "phone": "",
+        "status": [
+            "Staff"
+        ],
+        "suite": "",
+        "title": "Associate Director Graduate Programs"
+    },
+    {
+        "academic": [
+            "Strategy and Innovation"
+        ],
+        "email": "diane.caceres@gatech.edu",
+        "firstName": "Diane",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/alleva_caceres_diane_profile.jpg",
+        "lastName": "Alleva C\u00E1ceres",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/alleva-caceres/index.html",
+        "office": "4106",
+        "phone": "404-374-7682",
+        "position": [
+            "Lecturer"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "",
+        "title": "Lecturer"
+    },
+    {
+        "academic": [
+            "Finance"
+        ],
+        "email": "skarnik33@gatech.edu",
+        "firstName": "Satyajit",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/0-no-photo.png",
+        "lastName": "Karnik",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/karnik/index.html",
+        "office": "4616",
+        "phone": "440-670-2972",
+        "position": [
+            "Lecturer"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "",
+        "title": "Lecturer"
+    },
+    {
+        "academic": [
+            "Law and Ethics"
+        ],
+        "email": "debrae.kennedy-mayo@scheller.gatech.edu",
+        "firstName": "DeBrae",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/mayo_debrae_kennedy_profile.jpg",
+        "lastName": "Kennedy-Mayo",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/kennedy-mayo/index.html",
+        "office": "4000",
+        "phone": "404-787-5767",
+        "position": [
+            "Senior Academic Professional"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "",
+        "title": "Senior Academic Professional"
+    },
+    {
+        "email": "kelleena.greavesrowe@scheller.gatech.edu",
+        "firstName": "Kelleena",
+        "functional": [
+            "Development"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/greaves-rowe_kelleena_profile-205x205.jpg",
+        "lastName": "Greaves-Rowe",
+        "link": "https://www.scheller.gatech.edu/directory/staff/greaves-rowe/index.html",
+        "office": "4000",
+        "phone": "404-385-5715",
+        "status": [
+            "Staff"
+        ],
+        "suite": "",
+        "title": "Development Assistant"
+    },
+    {
+        "email": "sberry43@gatech.edu",
+        "firstName": "Stephanie",
+        "functional": [
+            "Administration"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/0-no-photo.png",
+        "lastName": "Berry",
+        "link": "https://www.scheller.gatech.edu/directory/staff/berry/index.html",
+        "office": "4259",
+        "phone": "",
+        "status": [
+            "Staff"
+        ],
+        "suite": "",
+        "title": "Administrative Professional III"
+    },
+    {
+        "email": "will.tran@scheller.gatech.edu",
+        "firstName": "Thy",
+        "functional": [
+            "IT Services"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/tran_thy_profile-205x205.jpg",
+        "lastName": "Tran",
+        "link": "https://www.scheller.gatech.edu/directory/staff/tran/index.html",
+        "office": "2105",
+        "phone": "",
+        "status": [
+            "Staff"
+        ],
+        "suite": "204",
+        "title": "IT Support Professional"
+    },
+    {
+        "email": "jessica.zlo@scheller.gatech.edu",
+        "firstName": "Jessica",
+        "functional": [
+            "Undergraduate"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/zlotcavitch_jessica_profile.jpg",
+        "lastName": "Zlotcavitch",
+        "link": "https://www.scheller.gatech.edu/directory/staff/zlotcavitch/index.html",
+        "office": "3318",
+        "phone": "404-894-1319",
+        "status": [
+            "Staff"
+        ],
+        "suite": "322",
+        "title": "Corporate Relations Manager"
+    },
+    {
+        "email": "ivan.garcia@scheller.gatech.edu",
+        "firstName": "Ivan",
+        "functional": [
+            "Full-time MBA"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/garcia_ivan_profile-205x205.jpg",
+        "lastName": "Garcia",
+        "link": "https://www.scheller.gatech.edu/directory/staff/garcia/index.html",
+        "office": "3156G",
+        "phone": "",
+        "status": [
+            "Staff"
+        ],
+        "suite": "302",
+        "title": "Full-time MBA Recruiting Manager"
+    },
+    {
+        "academic": [
+            "Finance"
+        ],
+        "email": "keyi.wang@scheller.gatech.edu",
+        "firstName": "Keyi",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/wang_keyi_profile.jpg",
+        "lastName": "Wang",
+        "link": "https://www.scheller.gatech.edu/directory/phd/wangk/index.html",
+        "office": "4000",
+        "phone": "",
+        "status": [
+            "PhD"
+        ],
+        "suite": "",
+        "title": "Ph.D. Student"
+    },
+    {
+        "academic": [
+            "Finance"
+        ],
+        "email": "sunhyuk.lee@scheller.gatech.edu",
+        "firstName": "Sunhyuk",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/lee_sunhyuk_profile.jpg",
+        "lastName": "Lee",
+        "link": "https://www.scheller.gatech.edu/directory/phd/lees/index.html",
+        "office": "4000",
+        "phone": "",
+        "status": [
+            "PhD"
+        ],
+        "suite": "",
+        "title": "Ph.D. Student"
+    },
+    {
+        "email": "rebecca.santiago@scheller.gatech.edu",
+        "firstName": "Rebecca ",
+        "functional": [
+            "Executive MBA",
+            "Executive Education"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/0-no-photo.png",
+        "lastName": "Santiago",
+        "link": "https://www.scheller.gatech.edu/directory/staff/santiago/index.html",
+        "office": "3156F",
+        "phone": "404-385-0371",
+        "status": [
+            "Staff"
+        ],
+        "suite": "310",
+        "title": "Academic Program Coordinator II"
+    },
+    {
+        "email": "allison.bridges@scheller.gatech.edu",
+        "firstName": "Allison",
+        "functional": [
+            "Sustainability"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/bridges_allison_profile-205x205.jpg",
+        "lastName": "Bridges",
+        "link": "https://www.scheller.gatech.edu/directory/staff/bridges/index.html",
+        "office": "4426",
+        "phone": "",
+        "status": [
+            "Staff"
+        ],
+        "suite": "",
+        "title": "Program Manager"
+    },
+    {
+        "email": "laura.smith@scheller.gatech.edu",
+        "firstName": "Laura",
+        "functional": [
+            "Business Analytics"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/smith_laura_profile.jpg",
+        "lastName": "Smith",
+        "link": "https://www.scheller.gatech.edu/directory/staff/smithl/index.html",
+        "office": "4000",
+        "phone": "",
+        "status": [
+            "Staff"
+        ],
+        "suite": "400",
+        "title": "Program and Operations Manager"
+    },
+    {
+        "academic": [
+            "IT Management"
+        ],
+        "email": "jaesang.rhee@scheller.gatech.edu",
+        "firstName": "Jae Sang",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/0-no-photo.png",
+        "lastName": "Rhee",
+        "link": "https://www.scheller.gatech.edu/directory/phd/rhee/index.html",
+        "office": "4277",
+        "phone": "",
+        "status": [
+            "PhD"
+        ],
+        "suite": "461H",
+        "title": "Ph.D. Student"
+    },
+    {
+        "email": "alexia.martin@scheller.gatech.edu",
+        "firstName": "Alexia",
+        "functional": [
+            "Evening MBA",
+            "Full-time MBA"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/martin_alexia_profile.jpg",
+        "lastName": "Martin",
+        "link": "https://www.scheller.gatech.edu/directory/staff/martin/index.html",
+        "office": "3128",
+        "phone": "404-385-7103",
+        "status": [
+            "Staff"
+        ],
+        "suite": "302",
+        "title": "Senior Academic Program Manager"
+    },
+    {
+        "email": "felecia.jordan@scheller.gatech.edu",
+        "firstName": "Felecia",
+        "functional": [
+            "Administration"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/0-no-photo.png",
+        "lastName": "Jordan",
+        "link": "https://www.scheller.gatech.edu/directory/staff/jordan/index.html",
+        "office": "4271",
+        "phone": "404-385-7584",
+        "status": [
+            "Staff"
+        ],
+        "suite": "460C",
+        "title": "Administrative Professional III"
+    },
+    {
+        "email": "heather.duncan@scheller.gatech.edu",
+        "firstName": "Heather",
+        "functional": [
+            "Administration"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/0-no-photo.png",
+        "lastName": "Duncan",
+        "link": "https://www.scheller.gatech.edu/directory/staff/duncan/index.html",
+        "office": "4260",
+        "phone": "404-894-4355",
+        "status": [
+            "Staff"
+        ],
+        "suite": "",
+        "title": "Administrative Professional III"
+    },
+    {
+        "email": "angela.schwartz@scheller.gatech.edu",
+        "firstName": "Angela",
+        "functional": [
+            "Executive MBA",
+            "Executive Education"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/schwartz_angela_profile-205x205.jpg",
+        "lastName": "Schwartz",
+        "link": "https://www.scheller.gatech.edu/directory/staff/schwartz/index.html",
+        "office": "3157",
+        "phone": "404-894-0038",
+        "status": [
+            "Staff",
+            "Dean"
+        ],
+        "suite": "310",
+        "title": "Associate Dean, Executive Education"
+    },
+    {
+        "email": "coogan.perrin@scheller.gatech.edu",
+        "firstName": "Coogan",
+        "functional": [
+            "Executive Education"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/perrin_coogan_profile-205x205.jpg",
+        "lastName": "Perrin",
+        "link": "https://www.scheller.gatech.edu/directory/staff/perrin/index.html",
+        "office": "3157D",
+        "phone": "404-385-5244",
+        "status": [
+            "Staff"
+        ],
+        "suite": "310",
+        "title": "Director - Executive Education Client Relations"
+    },
+    {
+        "email": "jade.may@scheller.gatech.edu",
+        "firstName": "Jade",
+        "functional": [
+            "Full-time MBA"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/may_jade_profile.jpg",
+        "lastName": "May",
+        "link": "https://www.scheller.gatech.edu/directory/staff/may/index.html",
+        "office": "3113",
+        "phone": "404-894-7397",
+        "status": [
+            "Staff"
+        ],
+        "suite": "302",
+        "title": "Academic Program Manager I"
+    },
+    {
+        "email": "triniece.smith@scheller.gatech.edu",
+        "firstName": "Triniece",
+        "functional": [
+            "Sustainability"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/smith_triniece_profile.jpg-205x205.jpg",
+        "lastName": "Smith",
+        "link": "https://www.scheller.gatech.edu/directory/staff/smithtr/index.html",
+        "office": "4426",
+        "phone": "404-385-5221",
+        "status": [
+            "Staff"
+        ],
+        "suite": "",
+        "title": "Administrative Professional III"
+    },
+    {
+        "email": "marybeth.dinges@scheller.gatech.edu",
+        "firstName": "Marybeth",
+        "functional": [
+            "Communications"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/dinges_marybeth_profile-205x205.jpg",
+        "lastName": "Dinges",
+        "link": "https://www.scheller.gatech.edu/directory/staff/dinges/index.html",
+        "office": "3233C",
+        "phone": "",
+        "status": [
+            "Staff"
+        ],
+        "suite": "325",
+        "title": "Video and Photo Producer"
+    },
+    {
+        "academic": [
+            "Organizational Behavior"
+        ],
+        "email": "hyunsun.park@scheller.gatech.edu",
+        "firstName": "Hyunsun",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/park_hyunsun_profile.jpg",
+        "lastName": "Park",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/park/index.html",
+        "office": "4306",
+        "phone": "",
+        "position": [
+            "Assistant Professor"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "",
+        "title": "Assistant Professor"
+    },
+    {
+        "email": "tonya.parker@scheller.gatech.edu",
+        "firstName": "Tonya",
+        "functional": [
+            "Administration",
+            "Inclusive Excellence"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/parker_tonya_profile-205x205.jpg",
+        "lastName": "Parker",
+        "link": "https://www.scheller.gatech.edu/directory/staff/parker/index.html",
+        "office": "4150",
+        "phone": "404-894-5994",
+        "status": [
+            "Staff"
+        ],
+        "suite": "",
+        "title": "Director of Inclusive Excellence"
+    },
+    {
+        "academic": [
+            "Finance"
+        ],
+        "email": "xindi.he@scheller.gatech.edu",
+        "firstName": "Xindi",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/xindi_he_profile-205x205.jpg",
+        "lastName": "He",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/he/index.html",
+        "office": "4132",
+        "phone": "",
+        "position": [
+            "Assistant Professor"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "",
+        "title": "Assistant Professor"
+    },
+    {
+        "academic": [
+            "IT Management"
+        ],
+        "email": "pan.li@scheller.gatech.edu",
+        "firstName": "Pan",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/li_pan_profile-205x205.jpg",
+        "lastName": "Li",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/li/index.html",
+        "office": "4161",
+        "phone": "",
+        "position": [
+            "Assistant Professor"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "496",
+        "title": "Assistant Professor"
+    },
+    {
+        "academic": [
+            "Accounting"
+        ],
+        "email": "jblann@gatech.edu",
+        "firstName": "Justin",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/blann_justin_profile-205x205.jpg",
+        "lastName": "Blann",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/blann/index.html",
+        "office": "4250",
+        "phone": "",
+        "position": [
+            "Assistant Professor"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "448",
+        "title": "Assistant Professor"
+    },
+    {
+        "academic": [
+            "Law and Ethics"
+        ],
+        "email": "charlotte.alexander@scheller.gatech.edu",
+        "firstName": "Charlotte",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/alexander_charlotte_profile-205x205.jpg",
+        "lastName": "Alexander",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/alexander/index.html",
+        "office": "4000",
+        "phone": "",
+        "position": [
+            "Professor"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "",
+        "title": "Professor"
+    },
+    {
+        "academic": [
+            "Strategy and Innovation"
+        ],
+        "email": "katarzyna.swiech@scheller.gatech.edu",
+        "firstName": "Katarzyna",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/swiech_katarzyna_profile-205x205.jpg",
+        "lastName": "Swiech",
+        "link": "https://www.scheller.gatech.edu/directory/phd/swiech/index.html",
+        "office": "4419",
+        "phone": "",
+        "status": [
+            "PhD"
+        ],
+        "suite": "",
+        "title": "Ph.D. Student"
+    },
+    {
+        "academic": [
+            "IT Management"
+        ],
+        "email": "haofei.qin@scheller.gatech.edu",
+        "firstName": "Haofei",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/qin_haofei_profile-205x205.jpg",
+        "lastName": "Qin",
+        "link": "https://www.scheller.gatech.edu/directory/phd/qin/index.html",
+        "office": "4277",
+        "phone": "",
+        "status": [
+            "PhD"
+        ],
+        "suite": "",
+        "title": "Ph.D. Student"
+    },
+    {
+        "academic": [
+            "Operations Management"
+        ],
+        "email": "cagri.ozmemis@scheller.gatech.edu",
+        "firstName": "Cagri",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/ozmemis_cagri_profile-205x205.jpg",
+        "lastName": "Ozmemis",
+        "link": "https://www.scheller.gatech.edu/directory/phd/ozmemis/index.html",
+        "office": "4317",
+        "phone": "",
+        "status": [
+            "PhD"
+        ],
+        "suite": "",
+        "title": "Ph.D. Student"
+    },
+    {
+        "email": "antonio.williams@scheller.gatech.edu",
+        "firstName": "Antonio",
+        "functional": [
+            "Evening MBA"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/williams_antonio_profile-205x205.jpg",
+        "lastName": "Williams",
+        "link": "https://www.scheller.gatech.edu/directory/staff/williams/index.html",
+        "office": "3126F",
+        "phone": "404-894-2782",
+        "status": [
+            "Staff"
+        ],
+        "suite": "302",
+        "title": "Evening MBA Recruiting Manager"
+    },
+    {
+        "academic": [
+            "Marketing"
+        ],
+        "email": "xi.lin@scheller.gatech.edu",
+        "firstName": "Xi",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/lin_xi_profile-205x205.jpg",
+        "lastName": "Lin",
+        "link": "https://www.scheller.gatech.edu/directory/phd/lin/index.html",
+        "office": "4279",
+        "phone": "",
+        "status": [
+            "PhD"
+        ],
+        "suite": "461G",
+        "title": "Ph.D. Student"
+    },
+    {
+        "academic": [
+            "Finance"
+        ],
+        "email": "yiyang.zhang@scheller.gatech.edu",
+        "firstName": "Yiyang",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/zhang_yiyang_profile-205x205.jpg",
+        "lastName": "Zhang",
+        "link": "https://www.scheller.gatech.edu/directory/phd/zhangy/index.html",
+        "office": "4273",
+        "phone": "734-358-9397",
+        "status": [
+            "PhD"
+        ],
+        "suite": "",
+        "title": "Ph.D. Student"
+    },
+    {
+        "academic": [
+            "Finance"
+        ],
+        "email": "xinyue.zhao@scheller.gatech.edu",
+        "firstName": "Xinyue",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/zhoa_xinyue_profile-205x205.jpg",
+        "lastName": "Zhao",
+        "link": "https://www.scheller.gatech.edu/directory/phd/zhaox/index.html",
+        "office": "4273",
+        "phone": "",
+        "status": [
+            "PhD"
+        ],
+        "suite": "",
+        "title": "Ph.D. Student"
+    },
+    {
+        "academic": [
+            "Marketing"
+        ],
+        "email": "sarah.motallebi@scheller.gatech.edu",
+        "firstName": "Sarah",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/motallebi_sarah_profile-205x205.jpg",
+        "lastName": "Motallebi",
+        "link": "https://www.scheller.gatech.edu/directory/phd/motallebi/index.html",
+        "office": "4279",
+        "phone": "",
+        "status": [
+            "PhD"
+        ],
+        "suite": "461G",
+        "title": "Ph.D. Student"
+    },
+    {
+        "academic": [
+            "IT Management"
+        ],
+        "email": "yi.gan@scheller.gatech.edu",
+        "firstName": "Yi",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/gan_yi_profile-205x205.jpg",
+        "lastName": "Gan",
+        "link": "https://www.scheller.gatech.edu/directory/phd/gan/index.html",
+        "office": "4000",
+        "phone": "",
+        "status": [
+            "PhD"
+        ],
+        "suite": "",
+        "title": "Ph.D. Student"
+    },
+    {
+        "academic": [
+            "Operations Management"
+        ],
+        "email": "abhishek.deshmane@scheller.gatech.edu",
+        "firstName": "Abhishek",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/deshmane_abhishek_profile-205x205.jpg",
+        "lastName": "Deshmane",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/deshmane/index.html",
+        "office": "4229",
+        "phone": "",
+        "position": [
+            "Assistant Professor"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "",
+        "title": "Assistant Professor"
+    },
+    {
+        "academic": [
+            "Marketing"
+        ],
+        "email": "nan.zhao@scheller.gatech.edu",
+        "firstName": "Nan",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/zhao_nan_profile-205x205.jpg",
+        "lastName": "Zhao",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/zhao/index.html",
+        "office": "4209",
+        "phone": "",
+        "position": [
+            "Assistant Professor"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "428",
+        "title": "Assistant Professor"
+    },
+    {
+        "academic": [
+            "IT Management"
+        ],
+        "email": "mingxi.zhu@scheller.gatech.edu",
+        "firstName": "Mingxi",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/zhu_mingxi_profile-205x205.jpg",
+        "lastName": "Zhu",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/zhu/index.html",
+        "office": "4126",
+        "phone": "984-209-7100",
+        "position": [
+            "Assistant Professor"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "",
+        "title": "Assistant Professor"
+    },
+    {
+        "academic": [
+            "Accounting"
+        ],
+        "email": "gyeongsim.kim@scheller.gatech.edu",
+        "firstName": "Gyeongsim",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/gyeangsim_kim_profile-205x205.jpg",
+        "lastName": "Kim",
+        "link": "https://www.scheller.gatech.edu/directory/phd/kim/index.html",
+        "office": "4310",
+        "phone": "",
+        "status": [
+            "PhD"
+        ],
+        "suite": "462D",
+        "title": "Ph.D. Student"
+    },
+    {
+        "email": "dan.warren@scheller.gatech.edu",
+        "firstName": "Dan",
+        "functional": [
+            "Development"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/warren_dan_profile-205x205.jpg",
+        "lastName": "Warren",
+        "link": "https://www.scheller.gatech.edu/directory/staff/warren/index.html",
+        "office": "4213",
+        "phone": "404-852-4580",
+        "status": [
+            "Staff"
+        ],
+        "suite": "",
+        "title": "Director of Development II"
+    },
+    {
+        "email": "kathy.kneeland@scheller.gatech.edu",
+        "firstName": "Kathy",
+        "functional": [
+            "Accounting and Finance"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/0-no-photo.png",
+        "lastName": "Kneeland",
+        "link": "https://www.scheller.gatech.edu/directory/staff/kneeland/index.html",
+        "office": "3248",
+        "phone": "404-385-3439",
+        "status": [
+            "Staff"
+        ],
+        "suite": "325",
+        "title": "Director of Financial Administration"
+    },
+    {
+        "email": "anthony.ifeadike@scheller.gatech.edu",
+        "firstName": "JJ",
+        "functional": [
+            "Communications"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/ifeadike_jj_profile-205x205.jpg",
+        "lastName": "Ifeadike",
+        "link": "https://www.scheller.gatech.edu/directory/staff/ifeadike/index.html",
+        "office": "3233A",
+        "phone": "",
+        "status": [
+            "Staff"
+        ],
+        "suite": "325",
+        "title": "Marketing Analytics Specialist"
+    },
+    {
+        "academic": [
+            "Operations Management"
+        ],
+        "email": "zahra.mobini@scheller.gatech.edu",
+        "firstName": "Zahra",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/mobini_zahra_profile-205x205.jpg",
+        "lastName": "Mobini",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/mobini/index.html",
+        "office": "4216",
+        "phone": "",
+        "position": [
+            "Assistant Professor"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "411",
+        "title": "Assistant Professor"
+    },
+    {
+        "academic": [
+            "Operations Management"
+        ],
+        "email": "dean@scheller.gatech.edu",
+        "firstName": "Anuj",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/mehrotra_anuj_profile-205x205.jpg",
+        "lastName": "Mehrotra",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/mehrotra/index.html",
+        "office": "3309",
+        "phone": "",
+        "position": [
+            "Dean",
+            "Professor"
+        ],
+        "status": [
+            "Faculty",
+            "Dean"
+        ],
+        "suite": "325",
+        "title": "Dean and Stephen P. Zelnak Jr. Chair"
+    },
+    {
+        "email": "irina.orlova@scheller.gatech.edu",
+        "firstName": "Irina",
+        "functional": [
+            "Administration"
+        ],
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/orlova_irina_profile_205x205.jpg",
+        "lastName": "Orlova",
+        "link": "https://www.scheller.gatech.edu/directory/staff/orlova/index.html",
+        "office": "3304",
+        "phone": "404-385-3814",
+        "status": [
+            "Staff"
+        ],
+        "suite": "325",
+        "title": "Chief Administrative Officer"
+    },
+    {
+        "academic": [
+            "Finance"
+        ],
+        "email": "sharada.sridhar@scheller.gatech.edu",
+        "firstName": "Sharada",
+        "image": "https://www.scheller.gatech.edu/_files/images/directory/sridhar_sharada_profile-205x205.jpg",
+        "lastName": "Sridhar",
+        "link": "https://www.scheller.gatech.edu/directory/faculty/sridhar/index.html",
+        "office": "4129",
+        "phone": "",
+        "position": [
+            "Assistant Professor"
+        ],
+        "status": [
+            "Faculty"
+        ],
+        "suite": "406",
+        "title": "Assistant Professor of Finance"
+    },
+]
