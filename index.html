@@ -9,25 +9,25 @@
     <script src="./main.js"></script>
   </head>   
   <body>
-    <div class="container">
+    <!-- <div class="container">
         <form action="upload.php" method="post" enctype="multipart/form-data">
             Select file to upload:
             <input type="file" name="fileToUpload" id="fileToUpload">
             <input type="submit" value="Upload File" name="submit">
           </form>
-    </div>
+    </div> -->
 
     <div class="repo">
-        <table>
-            <thead>
-                <tr>
-                    <th>Repo</th>
-                </tr>
-            </thead>
-            <tbody id="data">
-                
-            </tbody>
-        </table>
+    <section id="data"></section>
+    <sidebar id="sidebar">
+      <table>
+        <thead>
+          <tr><th colspan="2"><h3>Directory Information</h3></th></tr>
+        </thead>
+        <tbody id="directoryInfo">
+        </tbody>
+      </table>
+    </sidebar>
     </div>
 
   </body>
