@@ -1,12 +1,15 @@
 <?php
 // Replace '/path/to/uploads' with the actual path to your 'uploads' folder
-$directory = '/Users/nbaker41/Sites/scheller.directory.localhost/uploads';
+$directory = realpath(__DIR__ . '/../uploads');
 
 // Check if the directory exists
 if (!is_dir($directory)) {
-    http_response_code(404);
-    echo json_encode(['error' => 'Directory not found']);
-    exit;
+    // Try to create the directory if it doesn't exist
+    if (!mkdir($directory, 0777, true)) {
+        http_response_code(404);
+        echo json_encode(['error' => 'Directory not found and could not be created']);
+        exit;
+    }
 }
 
 // // Get all the files and directories inside the 'uploads' folder

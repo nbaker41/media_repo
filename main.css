@@ -51,6 +51,31 @@ body {
   height: 1rem;
 }
 
+#events {
+  margin-top: 2rem;
+  background: #e0f7fa;
+  border-radius: 0.5rem;
+  padding: 1rem;
+}
+#events h3 {
+  margin-top: 0;
+}
+#events ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+#events li {
+  margin-bottom: 0.5rem;
+}
+#events a {
+  color: #00695c;
+  text-decoration: none;
+}
+#events a:hover {
+  text-decoration: underline;
+}
+
 #data {
   grid-area: repo;
   grid-column-start: 3;

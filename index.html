@@ -9,26 +9,29 @@
     <script src="./main.js"></script>
   </head>   
   <body>
-    <!-- <div class="container">
-        <form action="upload.php" method="post" enctype="multipart/form-data">
-            Select file to upload:
-            <input type="file" name="fileToUpload" id="fileToUpload">
-            <input type="submit" value="Upload File" name="submit">
-          </form>
-    </div> -->
-
     <div class="repo">
-    <section id="data"></section>
-    <sidebar id="sidebar">
-      <table>
-        <thead>
-          <tr><th colspan="2"><h3>Directory Information</h3></th></tr>
-        </thead>
-        <tbody id="directoryInfo">
-        </tbody>
-      </table>
-    </sidebar>
+      <section id="data">
+        <!-- Thumbnails and previews will appear here -->
+      </section>
+      <sidebar id="sidebar">
+        <form id="uploadForm" action="./php/upload.php" method="post" enctype="multipart/form-data" style="margin-bottom:1rem;">
+          <label for="fileToUpload">Upload image:</label>
+          <input type="file" name="fileToUpload" id="fileToUpload" accept="image/*,application/pdf" required>
+          <button type="submit">Upload</button>
+          <span id="uploadStatus" style="margin-left:0.5rem;color:green;"></span>
+        </form>
+        <table>
+          <thead>
+            <tr><th colspan="2"><h3>Directory Information</h3></th></tr>
+          </thead>
+          <tbody id="directoryInfo">
+          </tbody>
+        </table>
+        <div id="events">
+          <h3>Georgia Tech Events</h3>
+          <ul id="eventsList"></ul>
+        </div>
+      </sidebar>
     </div>
-
   </body>
 </html>
