@@ -1,6 +1,6 @@
 <?php
-// Replace '/path/to/uploads' with the actual path to your 'uploads' folder
-$directory = '/Users/nbaker41/Sites/scheller.directory.localhost/uploads';
+// Use the uploads directory relative to the project root
+$directory = dirname(__DIR__) . '/uploads';
 
 // Check if the directory exists
 if (!is_dir($directory)) {

@@ -3,6 +3,48 @@ document.addEventListener('DOMContentLoaded', function() {
     var repo = document.querySelector('#data');
     var tBody = document.querySelector('#sidebar #directoryInfo');
     let array=[];
+
+    // Function to display a file in the main data area
+    function displayFile(item) {
+        // Clear the current content
+        repo.innerHTML = '';
+        
+        if (item.type === 'file') {
+            const fileExtension = item.name.split('.').pop().toLowerCase();
+            
+            if (['jpg', 'jpeg', 'png', 'gif', 'webp'].includes(fileExtension)) {
+                // Display image
+                const img = document.createElement('img');
+                img.src = './uploads/' + item.name;
+                img.alt = item.name;
+                img.style.maxWidth = '100%';
+                img.style.maxHeight = '100%';
+                img.style.objectFit = 'contain';
+                repo.appendChild(img);
+            } else {
+                // Display file info for non-images
+                const fileInfo = document.createElement('div');
+                fileInfo.innerHTML = `
+                    <h3>${item.name}</h3>
+                    <p>File type: ${fileExtension.toUpperCase()}</p>
+                    <p><a href="./uploads/${item.name}" target="_blank">Open file</a></p>
+                `;
+                fileInfo.style.padding = '2rem';
+                fileInfo.style.textAlign = 'center';
+                repo.appendChild(fileInfo);
+            }
+        } else if (item.type === 'directory') {
+            // Display directory info
+            const dirInfo = document.createElement('div');
+            dirInfo.innerHTML = `
+                <h3>📁 ${item.name}</h3>
+                <p>Directory</p>
+            `;
+            dirInfo.style.padding = '2rem';
+            dirInfo.style.textAlign = 'center';
+            repo.appendChild(dirInfo);
+        }
+    }
  
 
     fetch( './php/getContents.php' ).then(response => {
@@ -19,22 +61,14 @@ document.addEventListener('DOMContentLoaded', function() {
             let tr = document.createElement('tr');
             let td = document.createElement('td');
             td.innerHTML = item.name;
+            td.style.cursor = 'pointer';
             tr.appendChild(td);
             tBody.appendChild(tr);
-            td.addEventListener("click", (e)=>{
-                
-                // let img = document.createElement("img");
-                // img.src = '/uploads/' + item.name;
-                // repo.appendChild(img);
-            })
-            // let div2 = document.createElement('div');
-            // div2.classList.add('thumbnail');
-            // div2.innerHTML = `<div class="t-img"><img src="/uploads/${item.name}" alt="${item.name}"/></div><p>${item.name}</p>`; // replace "property1" with the actual property name
-            // div1.appendChild(div2);
-            // repo.appendChild(div1);
-
-            // tBody.innerHTML += `<tr><td class="item">${item.name}</td></tr>`;
-
+            
+            // Add click event to display the selected file
+            td.addEventListener("click", (e) => {
+                displayFile(item);
+            });
         }
 
   
@@ -46,22 +80,7 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     })
 
-    fetch( './php/events.php' ).then(response => {
-        if(!response.ok) {
-            throw new Error ( `HTTP error! status: ${response.status}` )
-        }
-        return response.text();
-    }).then(data => {
-        // console.log(data);
-
-  
-    }).catch(error=> {
-        if (error.message.startsWith('HTTP error')) {
-            console.error('There was a problem with the request:', error.message);
-        } else {
-            console.error('There was a problem processing the JSON:', error.message);
-        }
-    })
+    // Removed events.php fetch as it's unrelated to the media directory functionality
 
     
 

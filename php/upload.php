@@ -1,6 +1,15 @@
 <?php
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
-    $target_dir = "uploads/";
+    $target_dir = dirname(__DIR__) . "/uploads/";
+    
+    // Check if uploads directory exists, create if not
+    if (!is_dir($target_dir)) {
+        if (!mkdir($target_dir, 0755, true)) {
+            echo json_encode(['error' => 'Failed to create uploads directory']);
+            exit;
+        }
+    }
+    
     $target_file = $target_dir . basename($_FILES["fileToUpload"]["name"]);
  $uploadOk = 1;
     $imageFileType = strtolower(pathinfo($target_file,PATHINFO_EXTENSION));
