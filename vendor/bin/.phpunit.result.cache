@@ -1,0 +1,1 @@
+{"version":1,"defects":{"UploadTest::testUploadImageFile":3,"UploadTest::testUploadTooLargeFile":4,"UploadTest::testUploadInvalidFileType":4},"times":{"UploadTest::testUploadImageFile":0.002,"UploadTest::testUploadTooLargeFile":0.004,"UploadTest::testUploadInvalidFileType":0}}
