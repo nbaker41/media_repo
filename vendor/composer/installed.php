@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => '__root__',
-        'pretty_version' => 'dev-main',
-        'version' => 'dev-main',
-        'reference' => '4077030c4d308a940d956ccb142d6ae4b187c9c6',
+        'pretty_version' => 'dev-nbaker41-patch-1',
+        'version' => 'dev-nbaker41-patch-1',
+        'reference' => '47b20a8a1aa8490298bad5af97be9f0833457da3',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -11,9 +11,9 @@
     ),
     'versions' => array(
         '__root__' => array(
-            'pretty_version' => 'dev-main',
-            'version' => 'dev-main',
-            'reference' => '4077030c4d308a940d956ccb142d6ae4b187c9c6',
+            'pretty_version' => 'dev-nbaker41-patch-1',
+            'version' => 'dev-nbaker41-patch-1',
+            'reference' => '47b20a8a1aa8490298bad5af97be9f0833457da3',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
