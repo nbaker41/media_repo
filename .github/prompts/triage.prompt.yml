@@ -16,8 +16,8 @@ messages:
       - If the issue is a clear bug with all info, use: "### AI Assessment: Ready for Review"
       - If it is missing steps or logs, use: "### AI Assessment: Needs More Info"
       - If it is a vague feature request, use: "### AI Assessment: Needs Discussion"
-      - If it appears to be a duplicate, use: "### AI Assessment: Possible Duplicate"
-
+      - If it appears to be a duplicate of an existing issue, use: "### AI Assessment: Possible Duplicate"
+      
       ### Instructions for Priority:
       - Assign one of these exact labels based on severity: "priority: high", "priority: medium", "priority: low"
       - Output it as: "### Priority: priority: high" (or medium/low)
@@ -31,9 +31,10 @@ messages:
       - Only provide a solution if you are confident — otherwise omit it.
       - Label the section: "### Suggested Fix"
 
-      Also suggest a priority level (high, medium, or low) based on severity and impact.
 
+      
       Provide a brief summary of your reasoning before the assessment line.
+      Also suggest a priority level (high, medium, or low) based on the severity and impact described.
   - role: user
     content: |
       Please triage this issue:
