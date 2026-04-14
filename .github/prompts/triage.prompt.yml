@@ -18,6 +18,13 @@ messages:
       - If it is a vague feature request, use: "### AI Assessment: Needs Discussion"
       - If it appears to be a duplicate, use: "### AI Assessment: Possible Duplicate"
 
+      ### Instructions for Priority:
+      - Assign one of these exact labels based on severity: "priority: high", "priority: medium", "priority: low"
+      - Output it as: "### Priority: priority: high" (or medium/low)
+      - High = data loss, security, or broken core functionality
+      - Medium = degraded experience, workaround exists
+      - Low = cosmetic, minor inconvenience
+
       ### Instructions for Code Solutions:
       - If the issue describes a clear bug with enough detail, attempt to provide a concise code fix.
       - Wrap any code in fenced code blocks with the appropriate language tag.
