@@ -12,7 +12,7 @@ jobs:
       issues: write   # Required to post comments and add labels
     steps:
       - name: Checkout Code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: AI Assessment Comment Labeler
         uses: github/ai-assessment-comment-labeler@v1.0.1
