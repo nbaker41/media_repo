@@ -8,8 +8,8 @@ jobs:
     if: github.event.label.name == 'request ai review' # Only runs if this label is added
     runs-on: ubuntu-latest
     permissions:
-      issues: write # Required to post comments and add labels
-    
+      contents: read # Required to checkout the code
+      issues: write   # Required to post comments and add labels
     steps:
       - name: Checkout Code
         uses: actions/checkout@v4
