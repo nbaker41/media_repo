@@ -13,6 +13,11 @@ jobs:
     steps:
       - name: Checkout Code
         uses: actions/checkout@v4
+        
+      - name: Debug Path
+        run: |
+          pwd
+          ls -R .github/prompts
 
       - name: AI Assessment Comment Labeler
         uses: github/ai-assessment-comment-labeler@v1.0.1
