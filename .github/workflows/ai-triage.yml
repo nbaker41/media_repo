@@ -10,6 +10,7 @@ jobs:
     permissions:
       contents: read # Required to checkout the code
       issues: write   # Required to post comments and add labels
+      models: read   
     steps:
       - name: Checkout Code
         uses: actions/checkout@v4
